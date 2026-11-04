@@ -1,0 +1,434 @@
+{
+  "client_id": "sahra-express",
+  "name": "Sahra Express",
+  "currency": "AED",
+  "hubs": [
+    {
+      "hub_id": "AQ3",
+      "name": "Al Quoz Industrial Area 3",
+      "lat": 25.129,
+      "lng": 55.2405
+    }
+  ],
+  "day": {
+    "plan_deadline": "08:30",
+    "delivery_start": "09:00",
+    "delivery_end": "21:00"
+  },
+  "slots": {
+    "any_time_offered": true,
+    "windows": [
+      {
+        "start": "09:00",
+        "end": "13:00"
+      },
+      {
+        "start": "13:00",
+        "end": "17:00"
+      },
+      {
+        "start": "17:00",
+        "end": "21:00"
+      }
+    ]
+  },
+  "vehicle_types": [
+    {
+      "type_id": "MOTORBIKE",
+      "name": "Motorbike",
+      "max_weight_kg": 25,
+      "max_volume_m3": 0.1,
+      "fixed_cost_per_day": 90,
+      "cost_per_km": 0.25,
+      "max_item_weight_kg": 10,
+      "max_item_length_cm": 60
+    },
+    {
+      "type_id": "SEDAN",
+      "name": "Sedan",
+      "max_weight_kg": 150,
+      "max_volume_m3": 0.4,
+      "fixed_cost_per_day": 140,
+      "cost_per_km": 0.45
+    },
+    {
+      "type_id": "SMALL_VAN",
+      "name": "Small van",
+      "max_weight_kg": 600,
+      "max_volume_m3": 3.0,
+      "fixed_cost_per_day": 220,
+      "cost_per_km": 0.7
+    },
+    {
+      "type_id": "LARGE_VAN",
+      "name": "Large van",
+      "max_weight_kg": 1200,
+      "max_volume_m3": 8.0,
+      "fixed_cost_per_day": 320,
+      "cost_per_km": 0.95,
+      "has_helper": true,
+      "required_for_items_over_kg": 30
+    },
+    {
+      "type_id": "CHILLED_VAN",
+      "name": "Chilled van",
+      "max_weight_kg": 500,
+      "max_volume_m3": 2.5,
+      "fixed_cost_per_day": 380,
+      "cost_per_km": 1.1,
+      "refrigerated": true
+    }
+  ],
+  "licences": [
+    {
+      "licence_id": "MOTORCYCLE",
+      "vehicle_types": [
+        "MOTORBIKE"
+      ]
+    },
+    {
+      "licence_id": "LIGHT_VEHICLE",
+      "vehicle_types": [
+        "SEDAN",
+        "SMALL_VAN",
+        "LARGE_VAN",
+        "CHILLED_VAN"
+      ]
+    },
+    {
+      "licence_id": "BOTH",
+      "vehicle_types": [
+        "MOTORBIKE",
+        "SEDAN",
+        "SMALL_VAN",
+        "LARGE_VAN",
+        "CHILLED_VAN"
+      ]
+    }
+  ],
+  "driver_rules": {
+    "max_working_hours": 10,
+    "break_minutes": 30,
+    "break_required_over_hours": 6,
+    "overtime_rate_per_hour": 40,
+    "cash_limit": 5000,
+    "break_after_hours": 4
+  },
+  "dated_rules": [
+    {
+      "vehicle_type": "MOTORBIKE",
+      "from_month": 6,
+      "to_month": 9,
+      "no_riding_start": "12:30",
+      "no_riding_end": "15:00"
+    }
+  ],
+  "travel": {
+    "speed_offpeak_kmh": 30,
+    "speed_peak_kmh": 20,
+    "peak_windows": [
+      {
+        "start": "07:00",
+        "end": "09:30"
+      },
+      {
+        "start": "17:00",
+        "end": "20:00"
+      }
+    ],
+    "vehicle_speed_factors": {
+      "MOTORBIKE": 1.2
+    },
+    "road_distance_factor": 1.4
+  },
+  "stop_time": {
+    "minutes_by_stop_type": {
+      "villa": 4,
+      "apartment": 8,
+      "office_or_mall": 10
+    },
+    "cod_extra_minutes": 2,
+    "extra_parcel_minutes": 1,
+    "gate_extra_minutes": 5,
+    "stop_type_words": [
+      {
+        "stop_type": "villa",
+        "words": [
+          "villa",
+          "v"
+        ]
+      },
+      {
+        "stop_type": "office_or_mall",
+        "words": [
+          "office",
+          "warehouse",
+          "shop",
+          "mall"
+        ]
+      },
+      {
+        "stop_type": "apartment",
+        "words": [
+          "flat",
+          "apt",
+          "apartment",
+          "f"
+        ]
+      }
+    ],
+    "default_stop_type": "apartment",
+    "gated_areas": [
+      "Arabian Ranches",
+      "Arabian Ranches 2",
+      "Damac Hills",
+      "Dubai Hills Estate",
+      "Emirates Hills",
+      "Jumeirah Islands",
+      "Jumeirah Park",
+      "Mudon",
+      "The Meadows",
+      "The Springs"
+    ],
+    "gate_note_phrases": [
+      "gate pass"
+    ],
+    "stop_radius_m": 100
+  },
+  "money": {
+    "revenue_per_delivery": 16,
+    "failed_attempt_cost": 12,
+    "late_penalty_per_parcel": 5
+  },
+  "upload": {
+    "column_mappings": {
+      "consignments": {
+        "consignment_id": "consignment_id",
+        "shop_id": "shop_id",
+        "customer_phone": "customer_phone",
+        "address_line_1": "address_line_1",
+        "address_line_2": "address_line_2",
+        "area": "area",
+        "city": "city",
+        "landmark": "landmark",
+        "weight_kg": "weight_kg",
+        "length_cm": "length_cm",
+        "width_cm": "width_cm",
+        "height_cm": "height_cm",
+        "pieces": "pieces",
+        "slot_start": "slot_start",
+        "slot_end": "slot_end",
+        "payment_type": "payment_type",
+        "cod_amount": "cod_amount_aed",
+        "handling": "handling",
+        "attempt_number": "attempt_number",
+        "notes": "notes"
+      },
+      "drivers": {
+        "driver_id": "driver_id",
+        "name": "name",
+        "licence": "licence_type",
+        "shift_start": "shift_start",
+        "shift_end": "shift_end",
+        "experience_months": "experience_months",
+        "status": "status"
+      },
+      "vehicles": {
+        "vehicle_id": "vehicle_id",
+        "type": "type",
+        "max_weight_kg": "max_weight_kg",
+        "max_volume_m3": "max_volume_m3",
+        "refrigerated": "refrigerated",
+        "fixed_cost_per_day": "fixed_cost_aed_day",
+        "cost_per_km": "cost_per_km_aed",
+        "status": "status"
+      },
+      "delivery_history": {
+        "address_line_1": "address_line_1",
+        "address_line_2": "address_line_2",
+        "area": "area",
+        "city": "city",
+        "customer_phone": "customer_phone",
+        "failure_reason": "failure_reason",
+        "event_lat": "event_lat",
+        "event_lng": "event_lng"
+      },
+      "areas": {
+        "area_name": "area_name",
+        "aliases": "aliases",
+        "emirate": "emirate",
+        "centroid_lat": "centroid_lat",
+        "centroid_lng": "centroid_lng"
+      },
+      "verified_locations": {
+        "consignment_id": "consignment_id",
+        "true_lat": "true_lat",
+        "true_lng": "true_lng"
+      }
+    },
+    "value_mappings": {
+      "licence": {
+        "light": "LIGHT_VEHICLE"
+      },
+      "vehicle_type": {
+        "Small Van": "SMALL_VAN"
+      },
+      "payment_type": {},
+      "handling": {},
+      "driver_status": {},
+      "vehicle_status": {}
+    },
+    "test_row_markers": [
+      "test"
+    ],
+    "max_kg_per_m3": 3000,
+    "weight_unit_limit_kg": 200,
+    "default_box_cm": {
+      "length": 60,
+      "width": 40,
+      "height": 40
+    }
+  },
+  "address": {
+    "service_area": [
+      "Dubai"
+    ],
+    "alias_separator": ";",
+    "max_spread_m": 150,
+    "hub_exclusion_m": 200,
+    "hub_area_radius_m": 3000,
+    "confidence": {
+      "confirmed": 1.0,
+      "phone_area_many": 0.95,
+      "phone_area_few": 0.85,
+      "same_place": 0.8,
+      "phone_only": 0.5,
+      "disagreeing": 0.35,
+      "area_centre": 0.2,
+      "geocoded": 0.7
+    },
+    "word_replacements": {
+      "twr": "tower",
+      "toewr": "tower",
+      "bldg": "building",
+      "biulding": "building",
+      "builidng": "building",
+      "res": "residence",
+      "apts": "apartments",
+      "بناية": "building",
+      "شقة": "flat",
+      "فيلا": "villa"
+    },
+    "villa_words": [
+      "villa",
+      "v",
+      "فيلا"
+    ],
+    "vague_phrases": [
+      "near",
+      "behind",
+      "opp",
+      "opposite",
+      "next to",
+      "po box",
+      "p o box"
+    ],
+    "unusable_text": [
+      "0",
+      "-",
+      ".",
+      "na",
+      "n/a",
+      "home",
+      "dubai",
+      "call me",
+      "see notes"
+    ],
+    "note_address_markers": [
+      " - call on arrival"
+    ],
+    "unreliable_failures": [
+      "ADDRESS_NOT_FOUND"
+    ],
+    "note_conflicts": [
+      {
+        "phrase": "before noon",
+        "start_before": "12:00"
+      },
+      {
+        "phrase": "after 6pm",
+        "end_after": "18:00"
+      },
+      {
+        "phrase": "office hours",
+        "start_before": "17:00"
+      }
+    ],
+    "cod_note_conflicts": [
+      "contactless",
+      "leave with security"
+    ],
+    "location_code_word": "makani",
+    "verification": {
+      "geocoder": "nominatim",
+      "country_code": "AE",
+      "max_area_distance_m": 3000,
+      "min_centre_distance_m": 100,
+      "repeat_failure_threshold": 2,
+      "message": "Hello, your {client} parcel {consignment_id} is due on {date}. Please confirm the delivery date. {question}",
+      "area_question": "Which area is {building} in?",
+      "which_area_question": "Is it {areas}?",
+      "missing_question": "Please send your {missing}.",
+      "door_question": "Please also check your address, or share your location."
+    },
+    "completeness": {
+      "unit_words": [
+        "flat",
+        "f",
+        "apt",
+        "apartment",
+        "office",
+        "shop",
+        "#",
+        "شقة"
+      ],
+      "street_unit_words": [
+        "warehouse"
+      ],
+      "number_prefixes": [
+        "no"
+      ],
+      "max_unit_digits": 4,
+      "not_building_words": [
+        "floor"
+      ]
+    }
+  },
+  "planning": {
+    "late_weight": 30,
+    "unassigned_penalty": 200,
+    "workload_weight": 1,
+    "solver_seconds": 60,
+    "failure_rates": {
+      "with_area": 0.125,
+      "without_area": 0.3
+    },
+    "assumptions": [
+      "Plan date is chosen in the product; the sample uses 2026-10-14, so the summer motorbike rule is off.",
+      "Road distance is straight-line distance x 1.4. A public routing service only draws the line on the map, and never changes times, distance, or cost.",
+      "Salik tolls are ignored.",
+      "Each driver makes one trip per day, and a vehicle is not shared between shifts.",
+      "Working time runs from the driver's shift start.",
+      "Declared weight is for the whole consignment; dimensions are per piece.",
+      "A driver who arrives early waits for the slot; lateness is judged by when delivery begins.",
+      "Unknown stop types use the apartment time and are marked as guesses.",
+      "Sharjah and Ajman deliveries are planned but flagged.",
+      "The booked slot wins over a conflicting note, and the conflict goes to customer service.",
+      "Addresses use past deliveries first, then OpenStreetMap geocoding with four checks, then the customer. Sahra is fictional, so few of its buildings can be geocoded.",
+      "WhatsApp confirmations are shown as triggered but not sent, and Makani lookup is not connected.",
+      "A parcel with a rough location is planned with a driver call if the customer has not replied by planning time. One with no location moves to tomorrow.",
+      "The plan generator keeps to every limit. The hub manager has the final call, and any alerts at approval are saved and exported."
+    ],
+    "handover_minutes": 60
+  }
+}

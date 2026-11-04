@@ -1,0 +1,50 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Dispatch Planner</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Barlow+Semi+Condensed:wght@500;600;700&family=Barlow:wght@400;500;600&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css">
+<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+<header class="topbar">
+  <h1>Dispatch Planner</h1>
+  <label>Client <select id="client"></select></label>
+  <label>Hub <select id="hub"></select></label>
+  <label>Plan date <input type="date" id="date"></label>
+  <span id="status" class="status" role="status"></span>
+</header>
+<nav class="stages" aria-label="Morning steps">
+  <button data-view="data">1. Check today's files <small></small></button>
+  <button data-view="addresses">2. Check addresses <small></small></button>
+  <button data-view="plan">3. Review and approve the plan <small></small></button>
+  <button data-view="setup" class="stage-setup">Client setup</button>
+</nav>
+<div id="message" class="message" role="alert" hidden></div>
+<main id="view"></main>
+<dialog id="absent">
+  <form method="dialog" id="absent-form">
+    <h2>A driver can't work</h2>
+    <p>Finished stops and routes already on the road stay as they are. You review the change before anything is saved.</p>
+    <label>Driver <select id="absent-driver"></select></label>
+    <label>Time now <input type="time" id="absent-time" value="08:00" required></label>
+    <div id="absent-result"></div>
+    <div class="actions">
+      <button type="button" id="absent-propose" class="primary">Propose a change</button>
+      <button type="button" id="absent-accept" hidden>Accept this change</button>
+      <button type="button" id="absent-close">Close</button>
+    </div>
+  </form>
+</dialog>
+<dialog id="decide">
+  <h2 id="decide-title"></h2>
+  <div id="decide-body"></div>
+  <div class="actions"><button type="button" id="decide-no">Cancel</button><button type="button" id="decide-yes" class="primary"></button></div>
+</dialog>
+<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+<script src="app.js"></script>
+</body>
+</html>

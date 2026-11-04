@@ -1,0 +1,433 @@
+consignment_id,shop_id,customer_phone,address_line_1,address_line_2,area,city,landmark,weight_kg,length_cm,width_cm,height_cm,pieces,slot_start,slot_end,payment_type,cod_amount_aed,handling,attempt_number,notes
+C0371,SHOP012,+97156***0307,F-2812,Al Shams Tower,,Dubai Marina,,1.45,20,15,10,1,,,PREPAID,,NONE,1,
+C0101,SHOP001,+97158***9284,Flat no 112,Al Hikma Apartments,Al Karama,DUBAI,,0.69,30,20,15,1,17:00,21:00,COD,351.79,NONE,1,"Do not ring the bell, baby sleeping"
+C0225,SHOP031,+97158***4326,#813,Lotus Bldg,Port Saeed,DXB,,0.57,30,20,15,1,13:00,17:00,COD,102.12,NONE,1,Please deliver before noon
+C0091,SHOP024,+97158***3752,Flat 1402,Bin Hamoodha Building,Al Kaarma,Dubai UAE,,0.6,20,15,10,1,17:00,21:00,COD,226.1,NONE,1,Gate pass needed
+C0348,SHOP019,+97156***7182,,,Potr Saeed,Dubai - UAE,,6.89,60,40,40,1,13:00,17:00,PREPAID,,NONE,2,Fragile - handle with care
+C0290,SHOP035,+97156***1387,V27 street 18,,The Springs,Dubai UAE,,27.87,163,71,68,1,17:00,21:00,PREPAID,,BULKY,1,Customer requested contactless delivery
+C0147,SHOP036,+97156***2338,Flat 1204,Sky Gardens Plaza,Dubai Marina,Dubai,,1.02,30,20,15,1,,,COD,145.02,NONE,2,
+C0186,SHOP028,+97150***4345,F-508,Garden View Court,,DG,,0.39,60,40,40,1,09:00,13:00,PREPAID,,FRAGILE,1,Leave with security
+C0062,SHOP023,+97155***0241,Flat 2311,Al Manal Residence,,Dubai,,3.36,30,20,15,1,17:00,21:00,PREPAID,,NONE,1,"Do not ring the bell, baby sleeping"
+C0374,SHOP025,+97156***2972,Flat 2218,Golden Sands Tower,Al Mankhool,Dubai,,0.49,25,25,5,1,13:00,09:00,PREPAID,,NONE,2,
+C0034,SHOP029,+97155***4351,Flat no 1603,Al Manal Residence,,Dubai,,61.6,20,15,10,1,09:00,13:00,PREPAID,,BULKY,1,
+C0150,SHOP002,+97150***9644,F-1014,desert rose court,,Nahda 2,,0.58,20,15,10,2,13:00,17:00,COD,282.3,NONE,1,Customer requested contactless delivery
+C0010,SHOP003,+97156***0295,Flat 1301,Al Hikma Residence,The Greens,Dubai,,5.26,20,15,10,1,17:00,21:00,PREPAID,,NONE,1,Gate pass needed
+C0428,SHOP008,+97150***4210,Flat 4207,Jasmine Heights,Muwaileh,Sharjah,,2.68,50,40,30,1,17:00,21:00,PREPAID,,NONE,1,Office hours only
+C0226,SHOP023,+97152***6789,Flat 208,Marina Sky Res,A lMajaz,Dubai,,1.5,60,40,40,2,13:00,17:00,PREPAID,,NONE,3,Customer requested contactless delivery
+C0253,SHOP015,+97154***9928,Apt 213,Al Khai lApartments,JVC,DXB,,1.53,20,15,10,1,17:00,21:00,PREPAID,,FRAGILE,1,Office hours only
+C0420,SHOP014,+97158***8756,Apt 920,Al Reem Court,Al Barsha South,Dubai,,2.03,30,20,15,2,09:00,13:00,PREPAID,,NONE,1,
+C0131,SHOP025,+97158***0532,Flat 1605,Al Hamra Heights,Al Mankhool,Dubai,,0.95,40,30,20,1,13:00,17:00,COD,180.83,NONE,1,Office hours only
+C0229,SHOP036,+97150***4068,Flat 407,Ocean Building,Al Mankhool,Dubai,,0.91,20,15,10,1,,,COD,157.55,NONE,2,Gate pass needed
+C0039,SHOP007,+97154***9059,Flat no 1614,Golden Sands Twr,Al Mankhool,Dubai,,5.8,50,40,30,1,09:00,13:00,COD,123.82,NONE,1,Please deliver before noon
+C0032,SHOP035,+97155***3500,"Villa 64, Street 39",Naseem,Mudon,Dubai,,44.6,25,25,5,1,17:00,21:00,PREPAID,,BULKY,1,Fragile - handle with care
+C0238,SHOP006,+97154***4559,Flat 509,Lotus Building,Abu Hail,Dubai,,0.93,30,20,15,1,17:00,21:00,COD,177.21,NONE,1,
+C0026,SHOP021,+97152***4765,Flat no 611,Lake View Twr,Dubai Festival City,Dubai - UAE,,1450,120,100,100,6,17:00,21:00,PREPAID,,BULKY,2,
+C0137,SHOP020,+97154***8503,"Office 320, Sandstone Design",Coral Court,Jumeirah Village Triangle,dubai,,0.47,30,20,15,1,,,COD,117.63,CHILLED,1,
+C0370,SHOP038,+97150***5186,"Office 2019, Brightpath Education",al salam residence,,Dubai International Financial Centre,,1.09,40,30,20,1,17:00,21:00,PREPAID,,NONE,2,
+C0227,SHOP008,+97155***8512,Flat no 1616,Bay View Residence,Al Karama,Dubai UAE,,0.8,25,25,5,3,17:00,21:00,PREPAID,,NONE,2,Call before delivery
+C0008,SHOP006,+97155***2147,"Villa 36, Street 19",Rosa,Arabian Ranches 2,Dubai,,0.82,30,20,15,2,09:00,13:00,PREPAID,,NONE,1,Please deliver before noon
+C0295,SHOP001,+97158***1454,,,Th eSprings,dubai,,15.99,96,83,43,1,17:00,21:00,PREPAID,,BULKY,1,
+C0047,SHOP021,+97158***1981,Flat 1208,Grand Heights,Al Baraha,Dubai,,2.27,50,40,30,2,13:00,17:00,COD,109.65,NONE,1,Gate pass needed
+C0016,SHOP031,+97155***9529,Flat 919,Al Mina Court,Al Barsha 1,DUBAI,,0.79,30,20,15,1,13:00,17:00,PREPAID,,FRAGILE,1,Gate pass needed
+C0325,SHOP036,+97154***6578,Flat 816,Al Khail Building,Al Nahda 1,Dubai,,0.42,50,40,30,1,13:00,17:00,COD,840.78,NONE,1,
+C0265,SHOP038,+97158***2983,V33 street 2,Meadows 7,Meadows,دبي,,1.9,40,30,20,1,17:00,21:00,PREPAID,,NONE,1,Leave with security
+C0100,SHOP020,+97152***2743,"Villa no 92, St. 3",,Springs,Dubai,,0.83,25,25,5,1,17:00,21:00,PREPAID,,NONE,2,
+C0314,SHOP001,+97155***0908,Flat 2014,Bay View oTwer,Deira,Dubai,,0.3,60,40,40,1,17:00,21:00,PREPAID,,FRAGILE,2,
+C0228,SHOP002,+97156***1648,V76 street 14,,Umm Sueqim 2,UAE,,1.3,50,40,30,1,09:00,13:00,COD,572.37,NONE,1,
+C0128,SHOP001,+97156***6376,Flat 1209,Opal Court,Abu Hail,Dubai,,0.64,40,30,20,1,09:00,13:00,PREPAID,,FRAGILE,1,Gate pass needed
+C0320,SHOP014,+97150***7698,"Warehouse 5, Street 19",,Al Quoz Industrial Area 4,Dubai,,1.39,20,15,10,1,09:00,13:00,PREPAID,,NONE,1,Office hours only
+C0140,SHOP019,+97155***8306,Flat 219,Grand Building,Dubai Investments Park,Dubai,,1.29,40,30,20,1,,,COD,632.65,NONE,1,Office hours only
+C0095,SHOP027,+97150***6747,"Villa 15, Street 18",Rasha,Arabian Ranches 2,Dubai,,2.19,60,40,40,1,13:00,17:00,PREPAID,,NONE,1,"Do not ring the bell, baby sleeping"
+C0336,SHOP035,+97150***1971,Flat 407,Lotus Building,Barsha Heights,Dubai,,1.63,25,25,5,1,,,COD,137.2,NONE,1,
+C0193,SHOP024,+97150***1171,"Villa 17, Street 8",Alvorada,Arabian Ranches,Dubai,,5.85,40,30,20,2,13:00,17:00,PREPAID,,NONE,1,
+C0104,SHOP003,+97158***5894,Flat 2005,Al Zahra Apartments,The Greens,Dubai,,0.73,25,25,5,3,13:00,17:00,PREPAID,,FRAGILE,1,Call before delivery
+C0262,SHOP008,+97154***2123,Flat 113,Al Zahra Residence,Al Nuaimia,Dubai,,1.7,25,25,5,1,13:00,17:00,PREPAID,,NONE,1,
+C0105,SHOP028,+97154***2354,"Villa 91, Street 10",,Al Khawaneej,Dubai,,1.92,30,20,15,1,09:00,13:00,PREPAID,,NONE,1,
+C0271,SHOP029,+97150***2038,Flat 801,Pearl Court,Jumeirah Lakes Towers,Dubai,,35.01,156,55,76,1,,,COD,136.67,BULKY,1,
+C0054,SHOP028,+97154***4559,Flat 509,Lotus Building,Abu Hail,Dubai,,0.54,25,25,5,1,09:00,13:00,PREPAID,,NONE,1,Leave with security
+C0429,SHOP011,+97150***6057,Behind Al Maya supermarket,15th floor,Dubai Media City,DUBAI,Al Maya supermarket,1.32,20,15,10,1,,,COD,263.57,NONE,1,Customer requested contactless delivery
+C0383,SHOP017,+97158***4125,Apt 813,Garden View Toewr,Deria,Dubai - UAE,,54.88,103,85,72,1,,,PREPAID,,BULKY,1,
+C0022,SHOP016,+97152***4207,#1809,Al Manal Biulding,Sonapur,dubai,,1.74,20,15,10,1,09:00,13:00,COD,348.12,CHILLED,1,Please deliver before noon
+C0169,SHOP028,+97156***2065,Flat no 2218,Golden Sands Twr,,Dubai,,2.86,60,40,40,3,,,COD,220.9,NONE,2,
+C0273,SHOP026,+97156***1232,"Villa 44, Street 34",,Al Manara,Dubai,,3.2,20,15,10,1,09:00,13:00,PREPAID,,FRAGILE,1,"Do not ring the bell, baby sleeping"
+C0356,SHOP031,+97150***5501,Apartment 302,Coral Heights,Business Bay,UAE,,0.96,20,15,10,2,09:00,13:00,COD,143.15,NONE,1,
+C0404,SHOP026,+97156***6752,Near Al Maya supermarket,23rd floor,Downtown Dubai,DXB,Al Maya supermarket,2.26,30,20,15,1,,,COD,72.85,FRAGILE,1,Please deliver before noon
+C0040,SHOP022,+97158***6496,"V111 street 11, Yasmin, Ranches 2, DXB",,,,,3.56,60,40,40,1,09:00,13:00,COD,191.0,NONE,1,
+C0412,SHOP020,+97158***9470,Flat 306,Al Hamra Building,Motor City,Dubai,,1.6,25,25,5,1,21:00,17:00,COD,97.04,NONE,3,Office hours only
+C0220,SHOP034,+97155***0162,"Villa 6, Street 38",Arabella,Mudon,Dubai,,1.99,60,40,40,1,13:00,17:00,PREPAID,,NONE,1,
+C0390,SHOP034,+97156***1106,F-2502,Al Zahra Residence,Marina,dubai,,1.62,30,20,15,1,13:00,17:00,PREPAID,,NONE,1,Gate pass needed
+C0108,SHOP037,+97158***1925,"Flat 417, Al Hamra Heights, Mankhool, Dubai UAE",,,,,0.92,30,20,15,1,09:00,13:00,PREPAID,,NONE,1,Please deliver before noon
+C0166,SHOP021,+97154***7058,F-611,Cedar Apartmnets,Nuaimiya,Ajman,,-1,126,44,55,2,17:00,21:00,PREPAID,,BULKY,1,Gate pass needed
+C0286,SHOP021,+97156***8039,Flat 214,Cedar Apartments,Barsha Heights,Dubai,,1.24,60,40,40,1,09:00,13:00,PREPAID,,NONE,2,"Do not ring the bell, baby sleeping"
+C0197,SHOP003,+97155***0469,Flat 411,Al Shams Tower,Dubai Investments Park,Dubai,,1.56,25,25,5,1,09:00,13:00,PREPAID,,NONE,1,Customer requested contactless delivery
+C0375,SHOP017,+97150***9413,Flat 3702,Bin Hamoodah Residence,Dubai Investments Park,Dubai,,1.85,60,40,40,2,09:00,13:00,PREPAID,,NONE,1,Leave with security
+C0048,SHOP029,+97155***0084,Flat 606,Rose Heights,Jumeirah Lakes Towers,Dubai,,0.91,50,40,30,1,13:00,17:00,PREPAID,,FRAGILE,1,"Do not ring the bell, baby sleeping"
+C0259,SHOP010,+97154***4784,"#309, Jasmine Court, Motor City, dubai",,,,,0.86,30,20,15,1,,,PREPAID,,NONE,3,Fragile - handle with care
+C0096,SHOP027,+97152***7827,Villa 109 St 30,,Springs,Dubai - UAE,,3.5,20,15,10,1,13:00,17:00,COD,19.95,NONE,1,Please deliver before noon
+C0035,SHOP016,+97150***3304,Flat 1707,Lotus Tower,Al Nuaimiya,Ajman,,1.08,60,40,40,1,,,PREPAID,,CHILLED,1,Call before delivery
+C0009,SHOP010,+97156***7886,"Villa no 35, St. 27",,Mizhar,Dubai UAE,,3.14,50,40,30,1,17:00,21:00,PREPAID,,NONE,2,Please deliver before noon
+C0330,SHOP025,+97158***5750,Flat 2607,Marina Sky Court,Al Mankhool,Dubai,,0.92,20,15,10,1,13:00,17:00,COD,19.68,FRAGILE,1,Customer requested contactless delivery
+C0058,SHOP032,+97156***9683,Flat 416,Al Attar Building,Hor Al Anz,Dubai,,2.38,30,20,15,1,17:00,21:00,PREPAID,,NONE,1,Please deliver before noon
+C0115,SHOP006,+97152***4470,Flat 109,Park Lane Tower,Al Muraqqabat,Dubai,,2.01,50,40,30,3,5:00 PM,9:00 PM,PREPAID,,NONE,1,
+C0051,SHOP035,+97158***8842,0,,,Dubai,,2.11,30,20,15,1,13:00,17:00,PREPAID,,NONE,1,
+C0135,SHOP035,+97152***5763,Flat 914,Crescent Heights,Al Muraqqabat,Dubai,,1.54,30,20,15,1,09:00,13:00,COD,148.94,NONE,3,
+C0341,SHOP001,+97154***7595,Flat 513,Al Noor Court,Al Qusais 1,Dubai,,2.12,40,30,20,1,09:00,13:00,COD,37.9,NONE,1,Office hours only
+C0324,SHOP012,+97155***0908,Flat no 2014,Bay View Twr,Dera,DUBAI,,1.02,30,20,15,1,09:00,13:00,PREPAID,,NONE,1,Customer requested contactless delivery
+C0379,SHOP017,+97154***3496,V40 street 30,,Muwaileh Commercial,Dubai,,1.31,25,25,5,1,17:00,21:00,COD,136.04,NONE,1,
+C0251,SHOP021,+97155***6292,Flat 1318,Ocean Heights,Dubai Sports City,Dubai,,1.05,40,30,20,1,17:00,21:00,PREPAID,,CHILLED,1,
+C0106,SHOP026,+97155***5454,"Office 516, Al Majd General Trading, al manal building, Oud Metha, DUBAI",,,,,2.23,25,25,5,4,17:00,21:00,COD,35.23,NONE,1,Please deliver before noon
+C0191,SHOP003,+97156***2054,"Villa 40, Street 18",,Khawaneej,UAE,,0.42,40,30,20,1,09:00,13:00,COD,80.53,FRAGILE,1,Please deliver before noon
+C0246,SHOP011,+97152***4247,"Flat no 413, indigo apartments, Majaz, Sharjah",,,,,0.65,60,40,40,4,17:00,21:00,COD,129.12,NONE,1,Please deliver before noon
+C0306,SHOP040,+97158***4063,Apartment 106,coral court,Dubai Marina,UAE,,2.31,20,15,10,1,17:00,21:00,PREPAID,,NONE,1,Gate pass needed
+C0329,SHOP031,+97155***2970,Apartment 808,Al Hamra Heights,,Mankhool,,0.45,50,40,30,2,13:00,17:00,PREPAID,,NONE,1,
+C0110,SHOP018,+97158***0447,"فيلا no 42, St. 9",,Twar,دبي,,1.1,40,30,20,1,17:00,21:00,PREPAID,,NONE,1,
+C0201,SHOP040,+97156***7704,"Villa 96, Street 15",,Mirdif,Dubai,,1.88,20,15,10,1,09:00,13:00,PREPAID,,NONE,1,Leave with security
+C0364,SHOP034,+97154***3200,"Villa no 76, St. 32",,Jumeirah 2,Dubai,,1.52,60,40,40,2,,,COD,146.5,NONE,1,Office hours only
+C0130,SHOP013,+97155***1399,Flat no 3220,Al Reem Building,International City,Dubai,,1.25,60,40,40,1,09:00,13:00,COD,146.72,NONE,1,Gate pass needed
+C0183,SHOP040,+97154***5649,Flat 315,Palm View Apartments,Dubai Hills,Dubai,,0.13,60,40,40,1,,,COD,382.6,NONE,1,Call before delivery
+C0001,SHOP017,+97155***4559,"Villa 119, Street 10",,Al Barsha 3,Dubai,,6.3,25,25,5,1,13:00,17:00,PREPAID,,FRAGILE,1,Please deliver before noon
+C0174,SHOP001,+97156***8183,"Villa 51, Street 28",,Emirates Hills,Dubai,,3.58,20,15,10,1,09:00,13:00,COD,153.79,FRAGILE,1,Leave with security
+C0361,SHOP026,+97154***5419,"Villa no 37, St. 11, Jumeira 3, Dubai UAE",,,,,0.81,60,40,40,1,13:00,17:00,PREPAID,,NONE,1,
+C0313,SHOP025,+97156***7271,Dubai,,JBR,Dubai - UAE,,1.2,30,20,15,1,09:00,13:00,PREPAID,,NONE,1,"Flat 1311, Al Mina Tower, JBR - call on arrival"
+C0232,SHOP006,+97158***0532,Flat 1605,Al Hamra Heights,Al Mankhool,Dubai,,1.47,50,40,30,1,17:00,21:00,COD,289.81,NONE,1,Fragile - handle with care
+C0013,SHOP002,+97154***7630,Flat 302,Lotus Tower,International City,Dubai,,3.04,20,15,10,1,13:00,17:00,PREPAID,,NONE,1,
+C0372,SHOP010,+97152***8920,"Warehouse 59, Street 12",,Jebel Ali Free Zone,DXB,,2.08,20,15,10,1,13:00,17:00,COD,213.02,NONE,1,Please deliver before noon
+C0291,SHOP030,+97155***6815,"Villa 36, Street 20, Dubai Hills, Dubai",,,,,0.65,40,30,20,1,09:00,13:00,PREPAID,,CHILLED,1,
+C0344,SHOP017,,"Villa 53, Street 37",,Jumeirah 1,Dubai,,0.36,20,15,10,1,17:00,21:00,PREPAID,,NONE,2,
+C0272,SHOP031,+97154***8495,F-1720,Al Hamra Building,Nahda,Dubai,,0.79,40,30,20,1,09:00,13:00,PREPAID,,NONE,1,Call before delivery
+C0107,SHOP004,+97156***0851,Villa 56 St 22,,,Jumeirah Vilalge Triangle,,41.75,180,76,62,1,09:00,13:00,COD,127.87,BULKY,1,Please deliver before noon
+C0338,SHOP008,+97155***0388,Flat 1909,Lake View Heights,Jumeirah Beach Residence,Dubai,,3.76,30,20,15,1,,,PREPAID,,NONE,1,Leave with security
+C0007,SHOP038,+97152***4656,"Villa 72, Street 26",,,Nda Al Sheba,,0.68,50,40,30,1,,,PREPAID,,FRAGILE,2,Gate pass needed
+C0189,SHOP008,+97155***1114,PO Box 78950,,Barsha 2,Dubai UAE,,0.67,60,40,40,1,09:00,13:00,PREPAID,,NONE,1,"Do not ring the bell, baby sleeping"
+C0367,SHOP004,+97152***1252,"Villa 11, Street 18",,Dubai Investments Park,Dubai,,1.49,,,,1,09:00,13:00,PREPAID,,NONE,1,Customer requested contactless delivery
+C0163,SHOP031,+97154***4650,Flat 111,Al Durrah Heights,Al Rigga,Dubai,,0.26,40,30,20,1,17:00,21:00,PREPAID,,CHILLED,2,Call before delivery
+C0199,SHOP008,+97152***3308,"Office 2015, Brightpath Education",Sunset Tower,Meydan,Dubai,,1.29,60,40,40,1,13:00,17:00,PREPAID,,NONE,1,
+C0064,SHOP008,+97155***2677,Flat 511,Sapphire Heights,Al Mankhool,Dubai,,0.88,40,30,20,1,13:00,17:00,PREPAID,,CHILLED,1,Leave with security
+C0045,SHOP034,+97150***6385,"Villa 62, Street 37",,Al Barsha 3,Dubai,,0.35,50,40,30,3,09:00,13:00,PREPAID,,NONE,1,Leave with security
+C0287,SHOP034,+97155***0469,Flat 411,Al Shams Tower,Dubai Investments Park,Dubai,,2.16,25,25,5,1,,,PREPAID,,NONE,1,
+C0075,SHOP039,+97152***9693,Flat 1311,Park Lane Plaza,Naif,Dubai,,0.38,25,25,5,1,13:00,17:00,COD,71.68,FRAGILE,1,Office hours only
+C0312,SHOP038,+97152***2243,"Office 1501, Al Majd General Trading",Indigo Residence,Port Saeed,Dubai,,59.08,90,88,82,1,09:00,13:00,COD,191.99,BULKY,2,Office hours only
+C0019,SHOP003,+97155***0330,"Office 1707, Crescent Logistics",Emerald Heights,Al Satwa,Dubai,,0.93,30,20,15,1,09:00,13:00,PREPAID,,NONE,1,
+C0274,SHOP025,+97155***2636,Flat no 1603,Al Manal Res,Silicon Oasis,Dubai,,0.8,50,40,30,2,13:00,17:00,COD,608.58,NONE,3,
+C0080,SHOP015,+97158***4674,"Villa 13, Street 8",Akoya Oxygen,Damac Hills,Dubai,,42.1,78,90,80,1,09:00,13:00,COD,188.06,BULKY,2,Leave with security
+C0086,SHOP008,+97150***3603,Flat 502,Bin Hamoodah Apartments,Jumeirah Village Circle,Dubai,,0.47,30,20,15,1,09:00,13:00,COD,255.56,NONE,1,Office hours only
+C0366,SHOP003,+97152***6851,-,,,,,0.66,20,15,10,1,09:00,13:00,PREPAID,,CHILLED,1,
+C0387,SHOP022,+97155***0387,Flat 410,Pearl Tower,Al Raffa,Dubai,,0.15,40,30,20,1,,,PREPAID,,NONE,1,
+C0165,SHOP005,+97156***6938,#3314,Al Reem Residence,Jumeirah Beach Residence,DUBAI,,2460,25,25,5,1,09:00,13:00,COD,254.53,NONE,1,Please deliver before noon
+C0410,SHOP026,+97150***1516,Flat 505,Al Salam Heights,Al Qusais 1,Dubai,,1.45,25,25,5,2,09:00,13:00,PREPAID,,NONE,1,
+C0136,SHOP030,+97156***3913,"Villa 70, Street 25",Murooj,Al Furjan,Dubai,,0.56,40,30,20,1,13:00,17:00,COD,114.92,NONE,1,
+C0176,SHOP010,+97158***3250,"Villa 14, Street 22",,Al Garhoud,Dubai,,18.28,65,83,76,1,13:00,17:00,PREPAID,,BULKY,1,
+C0053,SHOP023,+97152***7244,Flat no 217,Al Manal Residence,Mankhool,Dubai,,1.61,60,40,40,1,13:00,17:00,PREPAID,,NONE,1,
+C0354,SHOP039,+97156***6243,Flat 2318,Mag Court,Motor City,Dubai,,0.9,30,20,15,1,17:00,21:00,PREPAID,,NONE,1,"Do not ring the bell, baby sleeping"
+C0043,SHOP005,+97154***1696,"Villa no 79, St. 22",Alma,Ranches,dubai,,1.03,60,40,40,1,13:00,17:00,COD,49.8,NONE,1,Call before delivery
+C0200,SHOP011,+97155***0452,Flat 207,Fortune Apartments,Oud Metha,Dubai,,2.55,50,40,30,1,,,COD,273.07,NONE,1,
+C0014,SHOP035,+97154***1297,#1120,Al Noor Building,Al Karama,DXB,,0.48,40,30,20,1,17:00,21:00,PREPAID,,NONE,1,
+C0335,SHOP012,+97154***2825,F-716,Golden Sands Tower,,Dubai,,2.57,20,15,10,1,13:00,17:00,COD,448.92,NONE,1,Gate pass needed
+C0315,SHOP022,+97150***5066,Flat 1012,Al Manal Residence,Al Barsha 1,Dubai,,2.58,60,40,40,1,13:00,17:00,COD,192.75,NONE,2,
+C0112,SHOP033,+97150***3241,"Villa 96, Street 37",,Al Wasl,Dubai - UAE,,4.94,20,15,10,3,13:00,17:00,PREPAID,,NONE,1,Leave with security
+C0223,SHOP038,+97158***0845,Flat 3211,Al Manal Residence,Jumeirah Village Triangle,Dubai,,2.34,60,40,40,4,,,PREPAID,,NONE,2,Leave with security
+C0340,SHOP022,+97154***7155,F-906,Sky Garden sHeights,Th eGreens,Dubai UAE,,1.1,40,30,20,1,09:00,13:00,PREPAID,,NONE,1,Customer requested contactless delivery
+C0249,SHOP013,+97154***8792,"Villa 44, Street 20",Trinity,Damac Hills,Dubai,,1.39,25,25,5,1,09:00,13:00,PREPAID,,CHILLED,1,"Do not ring the bell, baby sleeping"
+C0015,SHOP005,+97154***4670,Flat 805,Al Mansoor Apartments,Port Saeed,Dubai,,2.86,40,30,20,1,,,COD,77.61,NONE,1,Customer requested contactless delivery
+C0002,SHOP024,+97152***3332,"Villa 91, Street 34",,Dubai Festival City,Dubai,,1.2,60,40,40,1,17:00,21:00,PREPAID,,CHILLED,1,Please deliver before noon
+C0033,SHOP039,+97156***2518,Makani 94542 87989,Al Murad Tower,Interantional City,Dubai,,0,50,40,30,1,13:00,17:00,COD,99.69,FRAGILE,1,
+C0213,SHOP028,+97154***8319,0,,,,,3.07,50,40,30,1,13:00,17:00,PREPAID,,NONE,1,
+C0247,SHOP014,+97156***5362,Flat 4109,Al Salam Court,Raffa,Dubai - UAE,,2.69,50,40,30,1,09:00,13:00,PREPAID,,NONE,1,
+C0024,SHOP023,+97155***2038,Flat 419,Indigo Apartments,Jumeirah Village Circle,Dubai,,0.3,30,20,15,1,13:00,17:00,PREPAID,,NONE,1,Office hours only
+C0363,SHOP040,+97150***5628,Opposite the park,11th floor,AlM ankhool,Dubai,,3.3,60,40,40,1,09:00,13:00,PREPAID,,CHILLED,1,Fragile - handle with care
+C0116,SHOP008,+97156***8364,Abu Hail,,Abu Hail,DXB,,0.89,40,30,20,2,,,COD,364.69,FRAGILE,1,
+C0334,SHOP006,+97152***0063,test,,,UAE,,0.55,50,40,30,2,09:00,13:00,COD,1560.99,NONE,1,
+C0301,SHOP022,+97156***9093,"Villa no 107, St. 34",,The Meadows,DXB,,0.53,25,25,5,1,,,PREPAID,,FRAGILE,1,Office hours only
+C0343,SHOP003,+97158***9849,Apartment 2607,royal residence,JVC,Dubai,,1.66,40,30,20,1,09:00,13:00,PREPAID,,FRAGILE,1,Gate pass needed
+C0285,SHOP033,+97158***8126,Flat 2419,Al Attar Tower,International City,Dubai,,4.67,20,15,10,1,17:00,21:00,COD,216.61,NONE,1,
+C0031,SHOP031,+97156***9207,"Villa 93, Street 6",,Al Qusais 2,Dubai,,3.05,20,15,10,1,13:00,17:00,PREPAID,,CHILLED,1,Please deliver before noon
+C0063,SHOP029,+97154***7165,Flat 2501,Al Manal Residence,Al Mankhool,Dubai,,1.83,40,30,20,3,09:00,13:00,COD,548.64,NONE,1,Leave with security
+C0264,SHOP011,,"Villa 71, Street 3",Springs 6,The Springs,Dubai,,0.68,25,25,5,1,09:00,13:00,COD,111.19,NONE,2,Fragile - handle with care
+C0029,SHOP013,+97154***3243,Flat 608,Indigo Residence,Jumeirah Village Circle,Dubai,,4.57,,,,1,09:00,13:00,COD,209.51,NONE,1,
+C0426,SHOP013,+97152***0491,V70 street 22,,Al Warqaa,UAE,,0.61,40,30,20,1,13:00,17:00,PREPAID,,NONE,1,Customer requested contactless delivery
+C0241,SHOP030,+97154***6578,Flat 816,Al Khail Building,Al Nahda 1,Dubai,,82.3,50,40,30,2,17:00,21:00,COD,50.62,BULKY,1,Office hours only
+C0413,SHOP030,+97155***0028,Flat 302,Desert Rose Apartments,Barsha Heights,Dubai,,140,320,220,170,1,09:00,13:00,PREPAID,,BULKY,1,"Wardrobe, flat-packed? No - assembled"
+C0139,SHOP014,+97158***7938,,,Qusais 2,Dubai UAE,,2.03,40,30,20,1,,,COD,79.84,NONE,1,Customer requested contactless delivery
+C0011,SHOP032,+97154***1578,Flat no 709,Pearl Court,,Jumeirah Lake sTowers,,0.56,50,40,30,1,13:00,17:00,COD,139.0,NONE,1,
+C0037,SHOP016,+97155***5410,Apartment 2718,Lotus Apartments,Al Mankhool,Dubai,,0.85,40,30,20,1,17:00,21:00,PREPAID,,NONE,1,Please deliver before noon
+C0084,SHOP021,+97155***2501,"Villa 107, Street 36",,Jumeirah Park,dubai,,1.12,30,20,15,1,13:00,17:00,COD,70.77,NONE,1,Please deliver before noon
+C0261,SHOP037,+97156***9282,call me,,,,,2.95,40,30,20,1,13:00,17:00,COD,118.67,NONE,1,
+C0119,SHOP037,+97152***2176,Flat 2911,Al Yasmeen Plaza,Dubai Sports City,Dubai,,2870,40,30,20,1,09:00,13:00,PREPAID,,NONE,1,Fragile - handle with care
+C0171,SHOP004,+97158***1112,#1717,بناية Crescent Heights,Jumeirah Beach Residence,دبي,,1.1,50,40,30,2,09:00,13:00,PREPAID,,NONE,3,"Deliver after 6pm only, at work all day"
+C0360,SHOP038,+97154***0715,Flat no 106,Al Noor Builidng,,Dubai,,21.95,67,42,69,1,13:00,17:00,PREPAID,,BULKY,1,Gate pass needed
+C0164,SHOP028,+97150***6146,Apartment 412,Al Mina Plaza,Naif Road,dubai,,2.55,40,30,20,2,13:00,17:00,COD,150.7,NONE,1,
+C0230,SHOP023,+97154***2244,#1502,Opal Building,Deira,Dubai,,1.59,20,15,10,1,13:00,17:00,PREPAID,,NONE,1,Leave with security
+C0206,SHOP034,+97158***5579,Flat 210,Ocean Plaza,Al Nahda 1,Dubai,,3.19,60,40,40,1,09:00,13:00,PREPAID,,NONE,1,Call before delivery
+C0195,SHOP009,+97150***7900,"Villa no 51, St. 2",Dubai Style,Al Furjan,Dubai - UAE,,5.77,25,25,5,1,17:00,21:00,COD,59.93,NONE,1,Leave with security
+C0365,SHOP015,+97155***2963,Arabain Ranches,,Arabain Ranches,DXB,,2.03,20,15,10,1,17:00,21:00,PREPAID,,NONE,1,Customer requested contactless delivery
+C0093,SHOP023,+97158***1891,"Villa 81, Street 36",,Springs,dubai,,0.55,20,15,10,1,,,PREPAID,,NONE,2,
+C0245,SHOP014,+97155***4227,Dubai,,Barsha 3,DUBAI,,0.79,20,15,10,1,13:00,17:00,PREPAID,,NONE,1,"Villa 115, Street 7, Barsha 3 - call on arrival"
+C0076,SHOP029,+97154***3249,Flat 311,Al Reem Building,Dubai Creek Harbour,Dubai,,2.28,40,30,20,1,17:00,21:00,COD,448.02,NONE,1,
+C0311,SHOP005,+97158***3397,Flat 3110,Gulf Residence,Al Nuaimiya,Ajman,,53.41,82,50,65,1,17:00,21:00,PREPAID,,BULKY,1,Call before delivery
+C0317,SHOP017,+97154***4809,Flat 302,Oasis Plaza,Al Baraha,Dubai,,1.02,50,40,30,1,09:00,13:00,COD,108.97,NONE,1,Leave with security
+C0142,SHOP013,+97150***3564,home,,Al Warqa,Dubai,,1.93,40,30,20,1,13:00,17:00,COD,232.71,NONE,1,"Villa 67, Street 28, Al Warqa - call on arrival"
+C0319,SHOP003,+97156***7704,"Villa 96, Street 15",,Mirdif,Dubai,,3.52,20,15,10,1,09:00,13:00,PREPAID,,NONE,1,"Deliver after 6pm only, at work all day"
+C0377,SHOP036,+97158***5536,Near Spinneys,8th floor,Muraqqabat,DXB,,0.48,30,20,15,1,,,PREPAID,,NONE,1,
+C0389,SHOP031,+97152***3210,"Flat no 308, Avenue Twr, Karama, DXB",,,,,2.01,25,25,5,1,13:00,17:00,PREPAID,,NONE,1,Fragile - handle with care
+C0270,SHOP038,+97156***5441,Flat no 1006,al durrah plaza,Raffa,dubai,,0.73,25,25,5,1,,,PREPAID,,NONE,1,"Do not ring the bell, baby sleeping"
+C0216,SHOP015,+97152***4714,.,,,,,71.9,50,40,30,1,17:00,21:00,COD,136.0,BULKY,2,Fragile - handle with care
+C0157,SHOP035,+97150***8002,"Villa 94, Street 25",,Al Wasl,Dubai,,0.43,30,20,15,1,09:00,13:00,COD,138.52,NONE,1,Call before delivery
+C0023,SHOP032,+97150***6106,Flat no 2607,Royal Residence,,Dubai,,0.96,25,25,5,1,09:00,13:00,COD,125.01,FRAGILE,1,Office hours only
+C0296,SHOP009,+97156***8649,Flat 511,Al Attar Tower,Al Qusais 1,Dubai,,1.79,25,25,5,1,10:00,10:45,PREPAID,,NONE,2,
+C0073,SHOP005,+97150***2575,Flat 508,Royal Heights,Al Qusais 1,Dubai,,1.77,30,20,15,1,13:00,17:00,COD,57.53,NONE,1,
+C0187,SHOP004,+97152***4350,"Apartment 508, bin hamoodah apartments, Al Muraqqabat, dubai",,,,,2.07,30,20,15,1,09:00,13:00,COD,85.08,FRAGILE,1,Office hours only
+C0175,SHOP027,+97152***5454,Flat 2201,Opal Tower,Jumeirah Beach Residence,Dubai,,0.63,50,40,30,1,,,PREPAID,,NONE,1,Customer requested contactless delivery
+C0207,SHOP025,+97152***9119,Apartment 3911,Oasis Plaza,Al Nadha (Sharjah),sharjah,,1.16,60,40,40,1,,,PREPAID,,NONE,1,"Do not ring the bell, baby sleeping"
+C0065,SHOP019,+97150***0510,Flat no 2705,Garden View Apartments,Culture Village,Dubai UAE,,15.84,135,77,56,1,09:00,13:00,PREPAID,,BULKY,1,Call before delivery
+C0159,SHOP038,,Apt 507,Desert Rose Apartments,Creek Harbour,dubai,,1.27,60,40,40,1,13:00,17:00,COD,255.29,NONE,1,Fragile - handle with care
+C0219,SHOP017,+97155***6983,"Villa 116, Street 16",Springs 11,The Springs,Dubai,,22.67,50,40,30,1,09:00,13:00,PREPAID,,NONE,1,Call before delivery
+C0151,SHOP031,+97152***3079,"Villa no 95, St. 17, Jumeira 2, DUBAI",,,,,1.25,40,30,20,1,,,PREPAID,,NONE,1,Call before delivery
+C0196,SHOP011,+97154***4536,Flat 1907,Pearl Plaza,Al Jaddaf,Dubai,,1.64,20,15,10,1,17:00,21:00,PREPAID,,NONE,1,Please deliver before noon
+C0145,SHOP033,+97156***6007,Apt 2903,Al Waleed Heights,Motor Ctiy,Dubai - UAE,,1.4,40,30,20,1,13:00,17:00,COD,52.03,NONE,2,
+C0215,SHOP037,+97156***4363,Apt 107,Pearl Plaza,Al Rigga,Dubai,,2.59,60,40,40,1,13:00,17:00,PREPAID,,NONE,1,
+C0303,SHOP004,+97154***2740,"Villa 90, Street 35",,Green Community,Dubai,,6.52,600,400,400,1,,,COD,92.25,NONE,3,Please deliver before noon
+C0177,SHOP033,+97155***8462,Flat 706,Ocean Court,Al Nahda 1,Dubai,,38.33,102,51,83,1,13:00,17:00,COD,6200.0,BULKY,1,iPhone - customer will pay cash
+C0081,SHOP026,+97152***5865,Next to Emirates NBD,,Hor AlA nz,Dubai - UAE,,0.23,60,40,40,1,,,COD,45.77,NONE,1,Leave with security
+C0074,SHOP007,+97158***6615,Dubai,,Dubai Hills Estate,Dubai - UAE,,1.59,50,40,30,3,,,PREPAID,,FRAGILE,1,"Office 1411, Medina Health, Indigo Plaza, Dubai Hills Estate - call on arrival"
+C0272,SHOP031,+97154***8495,F-1720,Al Hamra Building,Nahda,Dubai,,0.79,40,30,20,1,09:00,13:00,PREPAID,,NONE,1,Call before delivery
+C0256,SHOP003,+97152***0063,"Villa 51, Street 24",,Palm Jumeirah,Dubai,,3.23,50,40,30,1,13:00,17:00,PREPAID,,NONE,1,
+C0103,SHOP018,+97152***5763,Flat 914,Crescent Heights,Al Muraqqabat,Dubai,,1.0,25,25,5,1,,,PREPAID,,NONE,1,
+C0208,SHOP015,+97155***4793,Flat 1013,Palm View Apartments,Hor Al Anz,Dubai,,0.5,30,20,15,1,09:00,13:00,PREPAID,,NONE,2,
+C0214,SHOP001,+97158***9308,V114 street 24,,Ranches,DUBAI,,2.42,20,15,10,2,09:00,13:00,COD,127.18,NONE,1,
+C0155,SHOP024,+97154***1951,"Office 507, Medina Health",Al Waleed Apartments,Al Barsha 1,Dubai UAE,,2.11,30,20,15,2,09:00,13:00,PREPAID,,CHILLED,1,
+C0310,SHOP024,+97155***6679,Flat 616,Silver Crest Heights,Al Jaddaf,Dubai,,3.49,20,15,10,1,17:00,21:00,PREPAID,,NONE,1,Leave with security
+C0059,SHOP029,+97150***2496,"Villa 37, Street 10",,Al Mizhar,Dubai,,1.53,25,25,5,1,09:00,13:00,PREPAID,,NONE,1,
+C0255,SHOP009,+97158***4351,"Villa 45, Street 1",,Meadows,DXB,,1.8,25,25,5,1,,,COD,43.56,NONE,1,Gate pass needed
+C0400,SHOP001,+97152***5949,Flat 111,Al Hikma Residence,Dubai Silicon Oasis,Dubai,,0.6,30,20,15,1,,,COD,70.51,NONE,1,Gate pass needed
+C0221,SHOP021,+97155***4808,Flat 209,Marina Sky Building,Barsha Heights,Dubai,,9.1,60,40,40,1,,,PREPAID,,NONE,1,
+C0152,SHOP007,+97152***1677,"Villa 7, Street 13",,Dubai Investments Park,Dubai,,0.99,40,30,20,1,17:00,21:00,COD,68.41,NONE,1,Please deliver before noon
+C0263,SHOP024,+97156***2471,V16 street 22,,Mirdiff,Dubai,,59.3,30,20,15,1,,,PREPAID,,BULKY,1,
+C0323,SHOP020,+97158***0459,Flat 615,Coral Apartments,Al Taawun,Sharjah,,1.88,60,40,40,1,13:00,17:00,COD,179.54,NONE,1,
+C0406,SHOP033,+97158***4171,See notes,,Warqa,Dubai - UAE,,11.67,30,20,15,1,13:00,17:00,PREPAID,,NONE,1,"Villa 31, Street 28, Warqa - call on arrival"
+C0423,SHOP030,+97150***2575,,,Naif Road,DXB,,0.57,25,25,5,1,09:00,13:00,PREPAID,,NONE,1,"Do not ring the bell, baby sleeping"
+C0342,SHOP032,+97158***5342,"F-520, Al Salam Plaza, Mtoor City, DUBAI",,,,,1.97,60,40,40,2,09:00,13:00,PREPAID,,NONE,2,Gate pass needed
+C0144,SHOP025,+97155***6162,Next to Carrefour,,Abu Hail,Dubai - UAE,Carrefour,1.13,60,40,40,1,,,PREPAID,,NONE,1,Call before delivery
+C0017,SHOP022,+97154***5186,Flat 1316,Al Durrah Building,Meydan,Dubai,,1.99,50,40,30,1,13:00,17:00,PREPAID,,CHILLED,1,
+C0100,SHOP020,+97152***2743,"Villa no 92, St. 3 (updated)",,Springs,Dubai,,4.33,25,25,5,1,17:00,21:00,PREPAID,,NONE,2,
+C0353,SHOP014,+97158***1934,Flat 511,Al Fajr Plaza,Al Majaz,Sharjah,,1.25,25,25,5,1,,,COD,454.03,NONE,1,Customer requested contactless delivery
+C0217,SHOP035,+97158***0649,Near the petrol station,,Al Nuamiiya,Ajman,the petrol station,13.01,40,30,20,1,13:00,17:00,PREPAID,,NONE,1,Fragile - handle with care
+C0052,SHOP036,+97154***4429,Flat 620,Mag Court,Al Nahda 1,Dubai,,0.48,25,25,5,1,17:00,21:00,COD,270.98,NONE,1,Call before delivery
+C0060,SHOP037,+97150***6241,#1902,al salam apartments,Abu Hail,dubai,,3.01,20,15,10,1,17:00,21:00,PREPAID,,NONE,1,
+C0071,SHOP033,+97155***1300,Flat 1713,Al Zahra Apartments,The Greens,Dubai,,0.2,25,25,5,2,,,PREPAID,,NONE,1,Please deliver before noon
+C0276,SHOP004,+97155***0430,"Villa 111, Street 18",Mirador,Arabian Ranches,UAE,,6.98,20,15,10,4,15:30,16:00,PREPAID,,NONE,1,Customer requested contactless delivery
+C0409,SHOP035,+97155***3792,Flat no 717,park lane building,Al Khan,Dubai,,1.34,40,30,20,1,,,COD,129.22,NONE,1,"Do not ring the bell, baby sleeping"
+C0122,SHOP007,+97150***6747,Villa 15 St 18,Rasha,Arabian Ranches 2,Dubai UAE,,3.06,25,25,5,1,17:00,21:00,PREPAID,,CHILLED,1,
+C0380,SHOP012,+97150***6079,Umm Suqeim 3,,Umm Suqeim 3,dubai,,4.44,50,40,30,1,13:00,17:00,PREPAID,,NONE,1,
+C0132,SHOP040,+97156***7536,Flat 605,Ocean Building,Al Mankhool,Dubai,,6.57,25,25,5,1,13:00,17:00,PREPAID,,NONE,1,Call before delivery
+C0146,SHOP025,+97154***4670,0,,,,,10.45,40,30,20,1,13:00,17:00,COD,157.77,NONE,1,
+C0118,SHOP012,+97150***8857,"Villa 11, Street 17",,Jumeirah 3,Dubai,,8.08,30,20,15,1,17:00,21:00,PREPAID,,NONE,1,
+C0316,SHOP004,+97156***9781,"Office 3720, Bluewave Tech",Rose Building,Dubai Healthcare City,Dubai,,2.93,25,25,5,1,17:00,21:00,PREPAID,,NONE,1,
+C0269,SHOP028,+97158***5906,PO Box 11399,,Intl City,DXB,,2.4,60,40,40,1,17:00,21:00,COD,119.81,NONE,1,Fragile - handle with care
+C0373,SHOP023,+97152***3802,Villa 89 St 27,Naseem,Mudon,UAE,,1.57,20,15,10,1,13:00,17:00,PREPAID,,NONE,1,
+C0170,SHOP036,+97152***8893,#1105,garden view building,Mankhool,UAE,,1.22,20,15,10,2,09:00,13:00,PREPAID,,NONE,1,
+C0072,SHOP016,+97152***6851,#2703,Marina kSy Apartments,,Jaddaf,,2.12,25,25,5,2,13:00,17:00,PREPAID,,NONE,1,
+C0154,SHOP034,+97155***4092,Dubai,,Qusais,DXB,,2.86,60,40,40,1,17:00,21:00,PREPAID,,NONE,1,"Flat 2511, Lake View Court, Qusais - call on arrival"
+C0025,SHOP027,+97152***6850,"Villa 45, Street 30",,Jumeirah 1,Dubai,,0.97,25,25,5,1,,,PREPAID,,NONE,1,
+C0236,SHOP014,+97155***5982,#1018,Park Lane Building,Al Khan,Dubai,,3.79,20,15,10,2,09:00,13:00,PREPAID,,FRAGILE,1,Please deliver before noon
+C0156,SHOP019,+97150***3855,Apt 2319,pearl residence,JBR,DXB,,0.65,40,30,20,1,17:00,21:00,PREPAID,,NONE,2,
+C0396,SHOP011,+97156***5788,Flat 2206,Gulf Tower,Discovery Gardens,Dubai,,1.01,25,25,5,1,17:00,21:00,PREPAID,,NONE,1,Gate pass needed
+C0424,SHOP031,+97155***9453,"Office 2109, Nexa Trading LLC",Sapphire Residence,Meydan,Dubai,,2.21,30,20,15,1,09:00,13:00,COD,148.63,NONE,1,
+C0268,SHOP009,+97150***8178,Flat no 1402,Al Zahra Building,Baraha,Dubai - UAE,,1.5,60,40,40,1,13:00,17:00,PREPAID,,FRAGILE,1,Fragile - handle with care
+C0260,SHOP033,+97155***6164,"Villa no 84, St. 39",,DIP 2,Dubai UAE,,0.58,60,40,40,1,17:00,21:00,PREPAID,,NONE,1,"Do not ring the bell, baby sleeping"
+C0056,SHOP015,+97158***7849,Flat 3013,Sunset Apartments,Dubai Festival City,Dubai,,0.84,30,20,15,1,17:00,21:00,PREPAID,,NONE,1,
+C0294,SHOP034,+97152***4104,Flat 603,Al Noor Heights,Al Qusais 2,Dubai,,2.61,25,25,5,1,17:00,21:00,PREPAID,,NONE,1,
+C0067,SHOP038,+97154***9554,Apartment 1605,Golden Sands Tower,Al Mankhool,Dubai,,0.17,30,20,15,1,13:00,17:00,PREPAID,,NONE,1,
+C0398,SHOP025,+97156***6383,Flat 820,Desert Rose Apartments,Dubai Creek Harbour,Dubai,,0.33,30,20,15,3,09:00,13:00,PREPAID,,FRAGILE,1,Office hours only
+C0167,SHOP002,+97158***5340,Opposite the mosque,,Ranches,Dubai,the mosque,0.89,30,20,15,2,,,PREPAID,,NONE,1,
+C0399,SHOP030,+97152***0732,"Villa 1, Street 1",,Arabian Ranches 2,dubai,,0.96,50,40,30,1,13:00,17:00,PREPAID,,NONE,1,Call before delivery
+C0049,SHOP032,+97155***6582,"Villa 119, Street 37",,Jumeirah Islands,Dubai,,1.67,30,20,15,2,17:00,21:00,PREPAID,,NONE,1,Gate pass needed
+C0384,SHOP028,+97158***4385,#1311,Al Yasmeen Plaza,Sports City,Dubai UAE,,0.92,20,15,10,1,13:00,17:00,PREPAID,,NONE,1,Gate pass needed
+C0240,SHOP038,+97158***3411,"Villa 119, Street 33",Murooj,Al Furjan,Dubai,,3.42,50,40,30,3,13:00,17:00,PREPAID,,NONE,1,Fragile - handle with care
+C0097,SHOP020,+97152***5661,Flat 2512,Rose Residence,Dubai Silicon Oasis,Dubai,,1.39,40,30,20,1,13:00,17:00,COD,179.57,FRAGILE,2,Office hours only
+C0044,SHOP018,+97152***2405,Flat 310,Palm View Court,Jumeirah Beach Residence,Dubai,,0.69,50,40,30,1,09:00,13:00,PREPAID,,NONE,1,
+C0129,SHOP018,+97155***4410,"Villa 83, Street 38",,Dubai Investments Park,Dubai,,1.04,50,40,30,1,13:00,17:00,PREPAID,,NONE,1,Please deliver before noon
+C0141,SHOP013,+97152***2647,"Villa no 36, St. 30",,Umm Suqeim 3,Dubai - UAE,,1.18,20,15,10,1,,,COD,254.29,NONE,2,Leave with security
+C0020,SHOP016,+97156***3297,"Villa 52, Street 19",,Al Garhoud,Dubai UAE,,0.43,30,20,15,1,,,COD,53.27,NONE,1,
+C0190,SHOP031,+97155***2085,home,,Al Baraha,Dubai UAE,,0.45,20,15,10,1,17:00,21:00,PREPAID,,NONE,2,"Flat 1618, Jasmine Plaza, Al Baraha - call on arrival"
+C0346,SHOP027,+97155***4764,Flat 2008,Al Attar Tower,The Views,Dubai,,2.04,40,30,20,2,17:00,21:00,PREPAID,,FRAGILE,1,
+C0282,SHOP017,+97156***3461,Flat 212,Oasis Plaza,Al Muraqqabat,Dubai,,0.28,50,40,30,1,17:00,21:00,PREPAID,,NONE,1,Office hours only
+C0231,SHOP036,+97158***0745,Flat 719,Al Attar Builidng,Hor Al Anz East,Dubai,,0.61,60,40,40,1,17:00,21:00,PREPAID,,CHILLED,1,Office hours only
+C0393,SHOP002,+97154***4465,Makani 84473 17859,sky gardens tower,Dubai Hills,Dubai - UAE,,0.81,20,15,10,2,17:00,21:00,PREPAID,,NONE,1,
+C0351,SHOP005,+97155***6990,"Office 708, Al Majd General Trading",Silver Crest Building,BB,Dubai - UAE,,0.57,50,40,30,1,13:00,17:00,PREPAID,,NONE,1,Please deliver before noon
+C0079,SHOP016,+97158***1489,Flat 807,Lotus Heights,Discovery Gardens,Dubai,,1.31,60,40,40,1,09:00,13:00,PREPAID,,NONE,1,Gate pass needed
+C0070,SHOP039,+97158***6877,0,,,Dubai,,1.25,50,40,30,1,17:00,21:00,COD,342.48,NONE,1,Call before delivery
+C0297,SHOP039,+97156***0470,Apt 518,Al Noor Building,Karama,Dubai,,2.41,60,40,40,1,17:00,21:00,PREPAID,,CHILLED,1,Please deliver before noon
+C0250,SHOP007,+97156***7728,"Flat no 2210, Al Noor Tower, Al aMnkhool, DUBAI",,,,,0.5,50,40,30,1,17:00,21:00,COD,105.87,NONE,1,Leave with security
+C0350,SHOP015,+97156***3849,Flat no 1113,Coral Apartments,Al Baarha,UAE,,0.85,30,20,15,1,09:00,13:00,COD,124.82,NONE,1,
+C0281,SHOP024,+97155***1300,"Villa 105, Street 32",,Green Community,Dubai,,0.96,60,40,40,2,,,COD,121.4,CHILLED,1,Leave with security
+C0179,SHOP018,+97150***6376,Flat 1014,Al Mina Tower,The Views,Dubai,,43.6,118,69,59,2,09:00,13:00,COD,315.92,BULKY,1,Fragile - handle with care
+C0427,SHOP011,+97158***5246,Villa 10 St 1,,The Meadows,Dubai - UAE,,0.68,20,15,10,2,17:00,21:00,PREPAID,,NONE,1,Leave with security
+C0066,SHOP029,+97150***9195,Villa 96 St 32,,Mirdif,UAE,,1.92,20,15,10,1,09:00,13:00,COD,105.01,FRAGILE,1,Gate pass needed
+C0308,SHOP040,+97150***5469,"Office 1708, Nexa Trading LLC",Palm View Building,DIFC,Dubai,,0.66,60,40,40,1,13:00,17:00,PREPAID,,NONE,1,Gate pass needed
+C0385,SHOP014,+97150***3588,#212,Al Noor Court,Al Mjaaz,Dubai,,0.61,60,40,40,1,17:00,21:00,PREPAID,,NONE,1,
+C0210,SHOP018,+97152***5945,"Villa 117, Street 7",,Umm Suqeim 2,Dubai,,1.75,30,20,15,1,13:00,17:00,PREPAID,,CHILLED,2,"Do not ring the bell, baby sleeping"
+C0401,SHOP018,+97150***2496,"Villa 37, Street 10",,Al Mizhar,Dubai,,0.88,60,40,40,1,17:00,21:00,PREPAID,,NONE,1,Fragile - handle with care
+C0046,SHOP031,+97150***0749,-,,,UAE,,0.75,25,25,5,1,,,COD,144.78,FRAGILE,2,
+C0005,SHOP019,+97152***6963,"Villa 69, Street 24",,Umm Suqeim 2,Dubai,,1.86,40,30,20,1,,,PREPAID,,NONE,1,Office hours only
+C0133,SHOP027,+97152***6552,فيلا 96 St 10,Meadows 6,The Meadows,دبي,,1.23,60,40,40,1,17:00,21:00,PREPAID,,NONE,1,
+C0134,SHOP018,+97154***9445,Flat 1304,Cedar Plaza,Town Square,Dubai,,0.58,30,20,15,1,17:00,21:00,PREPAID,,NONE,1,Leave with security
+C0202,SHOP038,+97156***3741,Flat 4207,jasmine heights,Muwaileh Commercial,Dubai,,3.95,40,30,20,1,17:00,21:00,PREPAID,,NONE,2,Customer requested contactless delivery
+C0419,SHOP019,+97152***0877,NA,,,Dubai,,2.42,60,40,40,1,09:00,13:00,COD,478.73,FRAGILE,1,Office hours only
+C0234,SHOP028,+97152***6908,Apartment 1813,Golden Sands Twr,Bur Dubai,Dubai,,1.29,25,25,5,1,13:00,17:00,PREPAID,,FRAGILE,1,
+C0111,SHOP026,+97156***4675,#4207,Jasmine Heights,Muwaileh Commercial,Dubai,,1.2,50,40,30,1,09:00,13:00,COD,268.6,NONE,2,
+C0237,SHOP026,+97152***6097,#609,al attar plaza,Al Nahda 1,dubai,,1.32,20,15,10,1,09:00,13:00,PREPAID,,NONE,1,
+C0327,SHOP025,+97152***4470,#109,Park Lane Twr,,Al Muraqqabat,,1.1,30,20,15,3,07:00,08:30,COD,171.91,FRAGILE,1,
+C0090,SHOP024,+97152***5386,Flat 2406,Al Zahra Court,International City,Dubai,,0.92,20,15,10,1,,,PREPAID,,NONE,3,
+C0162,SHOP006,+97152***8632,"Villa 91, Street 13",,Business Bay,Dubai,,6.71,50,40,30,1,17:00,21:00,COD,174.48,CHILLED,1,Fragile - handle with care
+C0266,SHOP011,+97150***7092,"Villa 50 St 10, Jumeirah, dubai",,,,,1.94,50,40,30,1,13:00,17:00,COD,123.58,NONE,1,Please deliver before noon
+C0184,SHOP023,+97154***6578,Flat 816,Al Khail Building,Al Nahda 1,Dubai,,1.72,30,20,15,1,,,PREPAID,,NONE,1,
+C0355,SHOP040,+97156***1317,Behind Al Maya supermarket,6th floor,DHCC,Dubai,,1.74,25,25,5,1,9:00 AM,1:00 PM,COD,155.82,NONE,1,
+C0305,SHOP003,+97154***7008,F-1308,Royal Residence,DSC,Dubai,,0.88,20,15,10,1,13:00,17:00,PREPAID,,NONE,1,Call before delivery
+C0117,SHOP001,+97154***5721,"Villa 47, Street 39",,Al Barsah 1,dubai,,2.83,30,20,15,1,13:00,17:00,PREPAID,,NONE,1,
+C0333,SHOP018,+97152***7227,"Office 806, Bluewave Tech",Al Noor Apartments,Dubai Hills Estate,Dubai,,5.79,20,15,10,1,09:00,13:00,COD,657.35,NONE,1,Customer requested contactless delivery
+C0161,SHOP009,+97158***5353,"Office 1503, Medina Health",Park Lane Residence,,Healthcare City,,2.24,40,30,20,1,18:00,18:30,PREPAID,,NONE,1,
+C0254,SHOP028,+97154***9275,Flat 3204,Sky Gardens Building,Dubai Sports City,Dubai,,1.77,50,40,30,2,13:00,17:00,PREPAID,,NONE,1,
+C0322,SHOP031,+97154***2874,Flat 613,Sapphire Heights,Al Jaddaf,Dubai,,1.77,20,15,10,1,17:00,21:00,COD,335.22,NONE,1,Gate pass needed
+C0242,SHOP025,+97150***2471,See notes,,Jumeirah Lakes Towers,DXB,,1.22,50,40,30,1,09:00,13:00,COD,117.46,NONE,1,"Flat 3818, Silver Crest Apartments, Jumeirah Lakes Towers - call on arrival"
+C0158,SHOP020,+97158***0012,Next to Union Coop,,Al Satwa,DXB,,1.39,30,20,15,1,,,COD,178.67,NONE,1,
+C0376,SHOP027,+97154***7004,"Office 4217, Brightpath Education",Fortune Apartments,Al Qusais 2,Dubai,,1.59,25,25,5,1,09:00,13:00,PREPAID,,NONE,1,Gate pass needed
+C0099,SHOP011,+97155***6363,PO Box 23883,,Al Barsha,Dubai UAE,,1.61,25,25,5,1,09:00,13:00,COD,318.27,FRAGILE,1,
+C0094,SHOP016,+97156***2972,Flat 2218,Golden Sands Tower,Al Mankhool,Dubai,,1.83,400,300,200,1,13:00,17:00,COD,281.84,NONE,1,Please deliver before noon
+C0211,SHOP035,+97154***0491,#512,AlF ajr Heights,Al Nahda 2,Dubai UAE,,0.82,40,30,20,1,13:00,17:00,PREPAID,,NONE,1,
+C0318,SHOP020,+97154***3121,Flat 1019,Al Waleed Tower,Al Mankhool,Dubai,,1.48,20,15,10,1,13:00,17:00,PREPAID,,NONE,1,
+C0126,SHOP019,+97156***0851,"Villa 56, Street 22",,Jumeirah Village Triangle,Dubai,,1.58,20,15,10,1,,,PREPAID,,NONE,1,
+C0415,SHOP005,+97150***3948,"Villa 105, Street 27",,Al Warqa,Dubai,,870,30,20,15,1,17:00,21:00,PREPAID,,NONE,1,Office hours only
+C0277,SHOP030,+97156***2450,Villa 36 St 25,Rasha,,Ranches 2,,2.0,40,30,20,1,13:00,17:00,COD,176.54,CHILLED,1,
+C0395,SHOP022,+97158***8350,"Villa 115, Street 35",,Khawaneej,DUBAI,,1.86,50,40,30,1,13:00,17:00,PREPAID,,NONE,1,Customer requested contactless delivery
+C0038,SHOP023,+97158***9577,PO Box 20581,,Dubai Festival City,dubai,,1.26,40,30,20,1,09:00,13:00,COD,148.19,CHILLED,1,Office hours only
+C0359,SHOP038,+97156***4363,Flat 107,Pearl Plaza,Al Rigga,Dubai,,0.81,40,30,20,1,17:00,21:00,PREPAID,,NONE,1,
+C0224,SHOP008,+97158***3634,Flat 706,Cedar Plaza,Town Square,Dubai,,1.19,40,30,20,1,,,COD,36.26,NONE,1,Please deliver before noon
+C0345,SHOP001,+97155***6466,Apt 802,Horizon Res,Deira,Dubai UAE,,1.78,40,30,20,1,09:00,13:00,PREPAID,,NONE,1,Fragile - handle with care
+C0304,SHOP020,+97154***1865,Flat 618,Al Waleed Apartments,Al Barsha 1,Dubai,,1.49,20,15,10,1,09:00,13:00,COD,289.18,NONE,2,
+C0018,SHOP039,+97150***3603,Apartment 502,Bni Hamoodah Apartments,Jumeirah iVllage Circle,DXB,,1.32,20,15,10,1,09:00,13:00,PREPAID,,NONE,1,Call before delivery
+C0382,SHOP019,+97154***7165,Apt 2501,Al Manal Residence,Al Mankhool,DXB,,53.13,160,77,87,1,17:00,21:00,PREPAID,,BULKY,1,Office hours only
+C0235,SHOP019,+97155***0930,home,,JVT,Dubai,,2.81,20,15,10,1,13:00,17:00,PREPAID,,NONE,1,"Flat 3207, Avenue Building, JVT - call on arrival"
+C0332,SHOP006,+97156***9683,Apt 416,al attar building,Hor Al Anz,Dubai - UAE,,1.69,25,25,5,1,17:00,13:00,PREPAID,,CHILLED,1,
+C0414,SHOP024,+97154***4784,Flat 920,Al Shams Court,The Greens,Dubai,,1.4,25,25,5,1,,,PREPAID,,NONE,1,Please deliver before noon
+C0114,SHOP029,+97150***1977,Flat 401,Al Mina Tower,The Greens,Dubai,,3.64,25,25,5,1,13:00,17:00,PREPAID,,NONE,1,"Do not ring the bell, baby sleeping"
+C0148,SHOP039,+97158***0612,Opposite Emirates NBD,25th floor,Juemirah Beach Residence,DUBAI,Emirates NBD,1.37,50,40,30,1,17:00,21:00,PREPAID,,NONE,1,Customer requested contactless delivery
+C0326,SHOP028,+97155***3424,Flat 909,Al Noor Building,Al Qusais 1,Dubai,,2.18,25,25,5,1,13:00,17:00,PREPAID,,NONE,1,Call before delivery
+C0203,SHOP017,+97150***9520,"Villa 50, Street 36",,The Springs,Dubai - UAE,,0.98,20,15,10,1,17:00,21:00,PREPAID,,NONE,1,Gate pass needed
+C0407,SHOP028,+97152***9084,"Villa 105, Street 23",Alvorada,Arabian Ranches,Dubai,,3.4,20,15,10,1,13:00,17:00,PREPAID,,NONE,1,Fragile - handle with care
+C0358,SHOP017,+97150***0695,"Villa 59, Street 31",,Al Wasl,Dubai,,0.73,40,30,20,1,9:00 AM,1:00 PM,PREPAID,,NONE,1,Gate pass needed
+C0222,SHOP004,+97154***2747,"Villa 69, Street 8",,Al Rashidiya,Dubai,,0.51,40,30,20,1,13:00,17:00,PREPAID,,NONE,1,Please deliver before noon
+C0239,SHOP031,+97152***1510,See notes,,DG,Dubai - UAE,,2.42,50,40,30,1,,,PREPAID,,NONE,1,"Flat 3017, Park Lane Court, DG - call on arrival"
+C0188,SHOP017,+97154***9371,"Villa 109, Street 8",,Al Manara,Dubai,,2.02,50,40,30,1,17:00,21:00,COD,201.05,NONE,1,Fragile - handle with care
+C0392,SHOP031,+97156***9587,Flat 2516,Bay View Tower,The Greens,Dubai,,0.73,60,40,40,1,09:00,13:00,PREPAID,,NONE,1,Office hours only
+C0248,SHOP002,+97156***0798,Flat 2215,Marina Sky Court,Al Mankhool,Dubai,,9.3,50,40,30,1,17:00,21:00,PREPAID,,NONE,1,
+C0421,SHOP007,+97155***6983,"Villa 116, Street 16",Springs 11,The Springs,Dubai,,2.34,20,15,10,1,,,PREPAID,,FRAGILE,1,Call before delivery
+C0397,SHOP023,+97155***6363,Flat 3012,Al Mina Apartments,Al Barsha 1,Dubai,,2.55,50,40,30,1,17:00,21:00,COD,377.42,NONE,2,
+C0328,SHOP017,+97156***1688,Near Emirates NBD,,Wasl,dubai,Emirates NBD,0.88,30,20,15,1,17:00,21:00,PREPAID,,NONE,1,
+C0369,SHOP022,+97155***0745,Greens,,Greens,Dubai UAE,,1.07,20,15,10,1,17:00,21:00,PREPAID,,NONE,1,"Do not ring the bell, baby sleeping"
+C0422,SHOP018,+97150***2147,"Office 1313, Orion Consulting",Al Zahra Plaza,Palm Jumeirah,Dubai,,29.25,129,41,65,1,13:00,17:00,COD,323.27,BULKY,1,Gate pass needed
+C0309,SHOP039,+97150***0975,Opposite Spinneys,,Ho rAl Anz,Dubai,,0.24,30,20,15,1,09:00,13:00,COD,279.14,CHILLED,1,
+C0425,SHOP016,+97154***8601,0,,,,,3.54,60,40,40,1,13:00,17:00,COD,1383.78,NONE,1,
+C0185,SHOP023,+97152***0543,Flat no 604,al noor tower,Motro City,DUBAI,,4.68,25,25,5,1,,,COD,134.16,NONE,1,
+C0102,SHOP034,+97154***9760,Flat 211,Al Waleed Apartments,Nahda 2,dubai,,0.89,40,30,20,1,13:00,17:00,COD,44.4,NONE,1,Gate pass needed
+C0143,SHOP018,+97154***1205,Flat 1303,Al Hikma Building,The Views,Dubai,,36.02,119,80,54,3,,,COD,905.75,BULKY,1,Gate pass needed
+C0123,SHOP030,+97155***4758,PO Box 58396,,Al Nuaimia,ajman,,0.99,25,25,5,3,,,PREPAID,,NONE,1,
+C0233,SHOP017,+97158***1675,Apartment 111,Al Noor Heights,Deira,Dubai - UAE,,2.34,60,40,40,1,13:00,17:00,PREPAID,,FRAGILE,1,
+C0127,SHOP021,+97154***9592,Next to the school,2nd floor,The Greens,Dubai UAE,the school,2.13,30,20,15,2,,,PREPAID,,NONE,2,Customer requested contactless delivery
+C0068,SHOP020,+97152***3798,home,,Town Square,Dubai - UAE,,1.62,60,40,40,1,13:00,17:00,PREPAID,,FRAGILE,1,"Flat 1409, Marina Sky Building, Town Square - call on arrival"
+C0394,SHOP004,+97152***1258,"Villa no 120, St. 23",,Furjan,DUBAI,,2.35,60,40,40,1,17:00,21:00,PREPAID,,NONE,1,
+C0004,SHOP009,+97158***6784,Flat 511,Al Badr Tower,Dubai Festival City,Dubai,,,50,40,30,1,,,PREPAID,,NONE,1,
+C0381,SHOP002,+97154***6398,Flat no 701,al reem plaza,Al Baraha,Dubai,,1.25,25,25,5,1,17:00,21:00,PREPAID,,FRAGILE,1,Office hours only
+C0050,SHOP003,+97156***9041,"Villa 89, Street 21",,Umm Suqeim 3,Dubai,,1.93,50,40,30,1,,,PREPAID,,CHILLED,1,Office hours only
+C0083,SHOP011,+97150***6267,F-309,Golden Sands Heights,Sufouh,DUBAI,,2.03,50,40,30,1,17:00,21:00,PREPAID,349.0,NONE,1,
+C0298,SHOP010,+97152***4126,Flat 3216,Sky Gardens Building,Dubai Sports City,Dubai,,1.8,60,40,40,1,09:00,13:00,PREPAID,,NONE,1,Customer requested contactless delivery
+C0252,SHOP026,+97158***9152,Flat 2703,Avenue Plaza,Al Qusais 1,Dubai,,0.21,25,25,5,1,13:00,17:00,PREPAID,,NONE,2,Leave with security
+C0307,SHOP030,+97155***2525,#1806,Indigo Tower,Dubai Silicon Oasis,DUBAI,,1.25,20,15,10,1,,,PREPAID,,NONE,2,Customer requested contactless delivery
+C0027,SHOP022,+97155***9679,Flat 2416,Al Waleed Tower,Jumeirah Village Circle,Dubai,,0.93,60,40,40,1,17:00,21:00,PREPAID,,NONE,1,Call before delivery
+C0089,SHOP001,+97154***4650,Flat 111,Al Durrah Heights,Al Rigga,Dubai,,1.74,40,30,20,1,17:00,21:00,COD,85.77,NONE,1,Please deliver before noon
+C0078,SHOP027,+97156***1291,Flat 2003,Al Yasmeen Building,Town Square,DUBAI,,1.02,,,,1,09:00,13:00,PREPAID,,NONE,1,Leave with security
+C0205,SHOP024,+97156***4973,Flat 819,Al Attar Building,Hor Al Anz,Dubai,,0.55,50,40,30,2,13:00,17:00,PREPAID,,NONE,1,
+C0030,SHOP021,+97150***5186,"Office 2019, Brightpath Education",al salam residence,,DIFC,,0.83,25,25,5,3,17:00,21:00,PREPAID,,NONE,2,
+C0378,SHOP028,+97155***8362,"Flat no 1309, Opal Heights, Raffa, DUBAI",,,,,4.4,20,15,10,1,13:00,17:00,PREPAID,,NONE,1,
+C0408,SHOP023,+97150***9800,Flat 118,Indigo Tower,International City,Dubai,,0.58,40,30,20,1,07:00,08:30,PREPAID,,CHILLED,1,Gate pass needed
+C0069,SHOP040,+97156***5053,Flat 1707,Crescent Court,Al Rigga,Dubai,,2.12,50,40,30,1,17:00,21:00,PREPAID,,NONE,1,"Do not ring the bell, baby sleeping"
+C0124,SHOP004,+97155***9418,Flat 617,Lotus Apartments,,Al Nahda 2,,1.17,30,20,15,1,09:00,13:00,PREPAID,,NONE,2,Office hours only
+C0113,SHOP028,+97154***4559,Flat 1108,Oasis Plaza,The Greens,Dubai,,15.07,40,30,20,1,,,PREPAID,,NONE,2,Please deliver before noon
+C0172,SHOP035,+97154***6287,Flat 504,Lotus Building,Jumeirah Village Circle,Dubai,,2.56,50,40,30,1,17:00,21:00,PREPAID,,NONE,1,Office hours only
+C0218,SHOP016,+97152***5925,فيلا 13 St 23,District 4,Jumeirah Park,دبي,,4.07,60,40,40,1,17:00,21:00,COD,362.53,NONE,2,Office hours only
+C0088,SHOP011,+97154***5017,"Apt 207, BayV iew Heights, Al Jaddaf, DXB",,,,,0.98,40,30,20,2,13:00,17:00,COD,172.0,NONE,1,Please deliver before noon
+C0006,SHOP018,+97158***0532,Flat 1605,Al Hamra Heights,Al Mankhool,Dubai,,2.7,60,40,40,1,17:00,21:00,COD,64.47,NONE,1,
+C0109,SHOP013,+97152***7052,"Villa 120 St 3, Mizhar, DUBAI",,,,,4.65,30,20,15,1,,,COD,53.02,NONE,1,Leave with security
+C0057,SHOP028,+97156***6376,"Apt 1209, Opal Court, Abu aHil, dubai",,,,,4.01,25,25,5,1,13:00,17:00,PREPAID,,NONE,1,
+C0008,SHOP006,+97155***2147,"Villa 36, Street 19",Rosa,Arabian Ranches 2,Dubai,,0.82,30,20,15,2,09:00,13:00,PREPAID,,NONE,1,Please deliver before noon
+C0055,SHOP001,+97154***2554,V65 street 10,,Rashidiya,Dubai UAE,,1.94,20,15,10,1,,,PREPAID,,NONE,2,Office hours only
+C0302,SHOP026,+97150***0994,V81 street 36,,Umm Suqeim 1,DUBAI,,1.63,30,20,15,1,,,COD,205.7,NONE,2,
+C0194,SHOP026,+97150***9800,Flat 118,Indigo Tower,International City,Dubai,,1.02,50,40,30,1,17:00,21:00,COD,322.11,NONE,1,Customer requested contactless delivery
+C0173,SHOP037,+97152***3377,Next to the mosque,,BB,Dubai - UAE,the mosque,3.69,30,20,15,1,17:00,21:00,COD,85.39,NONE,1,
+C0288,SHOP021,+97154***0046,"Villa 36, Street 3",,Emirates Hills,Dubai,,0.23,60,40,40,1,,,COD,131.47,NONE,1,Gate pass needed
+C0280,SHOP025,+97154***8774,Flat 207,Silver Crest Building,Deira,Dubai,,4.32,25,25,5,1,,,PREPAID,,NONE,1,Office hours only
+C0402,SHOP019,+97158***8188,Apartment 1105,بناية Al Salam Heights,Rigga,دبي,,1.47,50,40,30,1,,,PREPAID,,NONE,1,Office hours only
+C0087,SHOP015,+97154***5561,F-3211,Al Manal Residence,JVT,Dubai,,4.88,25,25,5,2,13:00,17:00,PREPAID,,CHILLED,1,
+C0120,SHOP028,+97152***8756,Flat 802,Bay View Tower,Deira,Dubai,,1.4,25,25,5,1,13:00,17:00,PREPAID,,NONE,1,Fragile - handle with care
+C0138,SHOP038,+97156***3312,"Villa no 119, St. 40",,Rashidiya,Dubai UAE,,0.53,50,40,30,2,09:00,13:00,COD,154.77,NONE,1,Customer requested contactless delivery
+C0417,SHOP032,+97154***4634,#316,gulf residence,Al Mruaqqabat,Dubai - UAE,,2.1,40,30,20,1,17:00,21:00,COD,33.59,NONE,1,Leave with security
+C0021,SHOP011,+97152***8254,See notes,,Jumeirah 1,DXB,,1.59,40,30,20,1,17:00,21:00,PREPAID,,NONE,2,"Villa 21, Street 20, Jumeirah 1 - call on arrival"
+C0082,SHOP027,+97155***0452,Flat 207,Fortune Apartments,Oud Metha,Dubai,,2.87,40,30,20,1,,,COD,1099.16,FRAGILE,1,Fragile - handle with care
+C0160,SHOP014,+97155***9571,Flat 2907,Coral Apartments,Al Raffa,Dubai - UAE,,1.13,60,40,40,1,13:00,17:00,PREPAID,,NONE,1,
+C0028,SHOP016,+97155***9623,"Villa 32, Street 35",,Business Bay,Dubai - UAE,,1.12,20,15,10,1,9:00 AM,1:00 PM,PREPAID,,NONE,1,
+C0283,SHOP027,+97152***6701,Flat 1109,Al Noor Court,Naif,Dubai,,0.82,20,15,10,1,13:00,17:00,COD,193.84,NONE,1,
+C0267,SHOP038,+97150***2167,Karama,,Karama,Dubai - UAE,,1.61,25,25,5,1,13:00,17:00,COD,105.53,NONE,1,Fragile - handle with care
+C0003,SHOP027,+97158***4674,PO Box 29780,,Damac Hills,Dubai UAE,,20.72,167,79,45,1,,,PREPAID,,BULKY,1,
+C0149,SHOP030,+97152***6157,Flat 220,Al Zahra Court,Al Jaddaf,Dubai,,1.06,30,20,15,1,09:00,13:00,PREPAID,,FRAGILE,1,Customer requested contactless delivery
+C0293,SHOP012,+97150***8605,Flat 806,Oasis Plaza,Al Baraha,Dubai,,7.33,40,30,20,1,13:00,17:00,COD,48.08,CHILLED,1,
+C0178,SHOP019,+97154***6135,"Office 1719, Nexa Trading LLC",Al Salam Apartments,Dubai Internet City,Dubai,,1.65,25,25,5,1,13:00,17:00,COD,521.51,NONE,1,Gate pass needed
+C0012,SHOP009,+97154***2904,"Villa 103, Street 31",,Al Barsha 2,Dubai,,2.27,20,15,10,1,09:00,13:00,COD,160.96,NONE,1,
+C0386,SHOP031,+97150***5710,,,Burj Khalifa area,Dubai UAE,,0.87,40,30,20,1,09:00,13:00,PREPAID,,NONE,1,Fragile - handle with care
+C0258,SHOP024,+97154***7723,Flat no 2014,Golden Sands Tower,Al Mankhool,Dubai,,1.51,40,30,20,2,13:00,17:00,PREPAID,,FRAGILE,1,
+C0153,SHOP015,+97154***2244,Flat 1502,Opal Building,Deira,Dubai,,0.4,30,20,15,1,09:00,13:00,PREPAID,,CHILLED,1,
+C0212,SHOP027,+97155***8882,Apt 1014,Royal Res,,Dubai,,1.31,30,20,15,1,13:00,17:00,PREPAID,,NONE,1,
+C0368,SHOP003,+97150***5006,Flat 613,Al Salam Building,Dubai Silicon Oasis,Dubai,,0.73,30,20,15,1,13:00,17:00,PREPAID,,NONE,2,Please deliver before noon
+C0181,SHOP031,+97156***9387,"Villa 64, Street 36",,Al Manara,Dubai,,0.85,40,30,20,1,09:00,13:00,COD,106.4,FRAGILE,1,
+C0347,SHOP006,+97152***5969,Flat 807,Al Hamra Plaza,Al Rigga,Dubai,,0.21,50,40,30,1,,,PREPAID,,NONE,1,Please deliver before noon
+C0036,SHOP027,+97154***9299,Flat 3605,Al Attar Residence,Al Qusais 1,Dubai,,0.52,20,15,10,3,09:00,13:00,COD,233.39,NONE,1,
+C0125,SHOP030,+97156***1848,Apt 1114,Al Noor Building,Al Karama,Dubai,,30.08,115,44,86,1,13:00,17:00,COD,93.09,BULKY,1,Call before delivery
+C0098,SHOP035,+97156***5168,Flat 301,Al Manal Plaza,Downtown Dubai,Dubai,,0.92,50,40,30,1,09:00,13:00,PREPAID,,NONE,1,Leave with security
+C0192,SHOP001,+97158***9423,V10 street 4,,Manara,Dubai - UAE,,2.83,25,25,5,1,17:00,21:00,PREPAID,,NONE,1,
+C0339,SHOP014,+97158***5948,Flat 304,Garden View Court,Jumeirah Lakes Towers,Dubai,,0.83,20,15,10,1,17:00,21:00,COD,49.08,NONE,1,Customer requested contactless delivery
+C0349,SHOP023,+97158***0972,Apt 513,Al Durrah Heights,Al Qusais 2,Dubai UAE,,0.19,50,40,30,1,,,COD,156.27,NONE,1,Gate pass needed
+C0418,SHOP031,+97158***9917,Flat 716,Al Hamra Building,Motor City,Dubai,,0.8,20,15,10,1,09:00,13:00,COD,101.34,NONE,1,Office hours only
+C0243,SHOP004,+97156***1433,,,Al Nahda,Dubai,,0.24,20,15,10,1,13:00,17:00,PREPAID,,NONE,2,Call before delivery
+C0092,SHOP001,+97154***5721,"Villa 47, Street 39",,Al Barsha 1,Dubai,,0.85,30,20,15,1,09:00,13:00,COD,277.93,NONE,1,Please deliver before noon
+C0362,SHOP024,+97150***7448,Flat 1417,Ocean Plaza,Naif,Dubai,,0.66,30,20,15,1,17:00,21:00,COD,239.14,NONE,2,Gate pass needed
+C0041,SHOP015,+97150***5614,F-3205,Royal Tower,Jumeirah Villaeg Circle,Dubai UAE,,2.4,50,40,30,1,17:00,21:00,PREPAID,,NONE,1,
+C0182,SHOP035,+97158***8871,Flat 703,Bin Hamoodah Residence,Dubai Marina,Dubai,,2.55,30,20,15,1,13:00,17:00,PREPAID,,NONE,1,Please deliver before noon
+C0292,SHOP013,+97150***2731,Apt 708,Marina Sky Plaza,Al Nahda,DXB,,2.01,30,20,15,1,,,PREPAID,,CHILLED,1,Call before delivery
+C0198,SHOP022,+97154***0290,Flat 1216,Al Mina Court,Al Barsha 1,Dubai,,2.57,60,40,40,3,17:00,21:00,COD,117.93,NONE,1,
+C0284,SHOP020,+97152***4748,Makani 33135 12462,Al Mina Plaza,Naif,DUBAI,,1.48,50,40,30,1,,,COD,39.6,NONE,1,"Do not ring the bell, baby sleeping"
+C0411,SHOP013,+97152***3636,"Villa 16, Street 17",Springs 8,The Springs,Dubai,,1.51,50,40,30,2,,,PREPAID,,NONE,1,Customer requested contactless delivery
+C0405,SHOP021,+97154***1724,Apt 1204,Horiozn Court,Al Rigga,DUBAI,,1.16,25,25,5,1,09:00,13:00,COD,56.23,NONE,1,Fragile - handle with care
+C0180,SHOP020,+97152***1711,"Villa 62, Street 27",,Meadows,DUBAI,,2.25,40,30,20,1,13:00,17:00,PREPAID,,FRAGILE,1,
+C0257,SHOP020,+97154***9928,Flat 213,Al Khail Apartments,Jumeirah Village Circle,Dubai,,1.34,20,15,10,2,09:00,13:00,PREPAID,,NONE,1,
+C0403,SHOP018,+97156***9650,F-1204,Al Mansoor Heights,Port Saeed,Dubai,,0.87,40,30,20,1,09:00,13:00,PREPAID,,NONE,3,Customer requested contactless delivery
+C0300,SHOP012,+97156***9282,Villa 104 St 31,,Jumeirah 3,DXB,,7.53,400,300,200,1,,,PREPAID,,NONE,1,
+C0121,SHOP024,+97155***2677,Flat 511,Sapphire Heights,Al Mankhool,Dubai,,0.32,50,40,30,1,,,PREPAID,,CHILLED,1,"Do not ring the bell, baby sleeping"
+C0168,SHOP023,+97152***3256,F-1012,Al Manal Res,Barsha 1,Dubai,,0.94,60,40,40,1,17:00,21:00,COD,,NONE,2,
+C0042,SHOP037,+97155***0144,"Office 1801, Orion Consulting",Avenue Residence,Dubai Media City,Dubai,,1.78,20,15,10,1,09:00,13:00,COD,162.45,NONE,1,
+C0061,SHOP027,+97158***9577,"Villa 104, Street 34",,Dubai Festival City,Dubai,,0.86,60,40,40,1,09:00,13:00,PREPAID,,NONE,1,Office hours only
+C0352,SHOP012,+97152***1103,Flat 803,Gulf Court,Port Saeed,Dubai,,61.5,60,40,40,1,,,PREPAID,,BULKY,1,
+C0416,SHOP017,+97154***0142,PO Box 80349,,Motor City,Dubai,,0.46,25,25,5,1,,,PREPAID,,NONE,1,Call before delivery
+C0299,SHOP040,+97152***0652,"Villa 20, Street 33",,Al Qusais 2,Dubai,,5.12,50,40,30,1,,,PREPAID,,NONE,1,
+C0337,SHOP005,+97152***9289,"Office 414, Medina Health",Al Hamra Apartments,DIP 2,Dubai,,1.81,50,40,30,1,,,PREPAID,,NONE,1,
+C0279,SHOP032,+97150***7983,F-114,Cedar Heights,Jumeirah Lake Towers,Dubai - UAE,,2.65,60,40,40,3,09:00,13:00,COD,373.77,NONE,3,
+C0204,SHOP009,+97156***4249,"Villa 80, Street 29",,Mudon,dubai,,0.99,25,25,5,1,09:00,13:00,PREPAID,,NONE,1,Call before delivery
+C0278,SHOP003,+97155***6737,"Villa 3, Street 3",,Jumeirah Islands,Dubai,,0.23,25,25,5,1,,,PREPAID,,NONE,1,
+C0085,SHOP040,+97155***0084,Flat 606,Rose Heights,Jumeirah Lakes Towers,Dubai,,0.91,20,15,10,4,17:00,21:00,PREPAID,,NONE,1,
+C0244,SHOP006,+97158***5099,Flat no 615,Al Hamra Apartemnts,Oud eMtha,dubai,,1.13,50,40,30,1,17:00,21:00,PREPAID,,NONE,1,Leave with security
+C0209,SHOP024,+97155***6225,Flat 3609,Mag Residence,Jumeirah Beach Residence,Dubai,,0.79,25,25,5,1,09:00,13:00,COD,,NONE,1,Call before delivery
+C0289,SHOP011,+97155***4282,Flat 618,Pearl Court,International City,Dubai,,1.95,60,40,40,1,09:00,13:00,PREPAID,,NONE,1,"Deliver after 6pm only, at work all day"
+C0321,SHOP038,+97150***2762,Apt 4314,Jasmine Heights,Internatinoal City,UAE,,390,60,40,40,1,09:00,13:00,COD,206.34,NONE,2,Please deliver before noon
+C0077,SHOP007,+97155***3989,Apartment 509,Al Mina Tower,The Views,Dubai,,2.32,50,40,30,1,09:00,13:00,PREPAID,,FRAGILE,1,
+C0275,SHOP030,+97150***6970,Flat 213,Al Attar Apartments,Discovery Gardens,Dubai,,2.94,20,15,10,1,09:00,13:00,COD,318.63,NONE,1,
+C0357,SHOP018,+97155***4026,Flat 2804,Rose Court,Motor City,Dubai,,4.71,40,30,20,2,13:00,17:00,PREPAID,,CHILLED,1,
+C0388,SHOP039,+97152***6908,"Office 1907, Nexa Trading LLC",Emerald Tower,Al Barsha South,Dubai,,0.21,50,40,30,1,09:00,13:00,COD,162.44,NONE,1,Office hours only
+C0331,SHOP028,+97158***2260,Villa 51 St 35,,Meadows,dubai,,0.43,60,40,40,1,09:00,13:00,PREPAID,,NONE,1,
+C0391,SHOP031,+97156***9885,شقة 108,Coral Tower,Dubai Investments Park,دبي,,2.93,20,15,10,1,17:00,21:00,PREPAID,,NONE,1,

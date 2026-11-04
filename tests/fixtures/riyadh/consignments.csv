@@ -1,0 +1,4 @@
+AWB,Mobile,Address,District,Town,Kg,L,W,H,Boxes,From,To,Pay,Cash,Care,Try
+R1001,+96650***1111,Villa 3,Al Olaya,Riyadh,2.5,30,20,15,1,08:00,16:00,Cash,120,Normal,1
+R1002,+96650***2222,dummy,,Riyadh,1,20,15,10,1,,,Card,,Normal,1
+R1003,+96650***3333,Flat 9,Al Malaz,Riyadh,900,30,20,15,1,16:00,23:00,Card,,Cold,2
